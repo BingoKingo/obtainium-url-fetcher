@@ -4896,22 +4896,6 @@
     }
   },
   {
-    "name": "tachiyomi-en.kawaiscans-v1.4.2.apk",
-    "path": "apk/tachiyomi-en.kawaiscans-v1.4.2.apk",
-    "sha": "9d0d6f5433be2e5d2e633e50c7e515a7f40d504f",
-    "size": 94808,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kawaiscans-v1.4.2.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kawaiscans-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9d0d6f5433be2e5d2e633e50c7e515a7f40d504f",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.kawaiscans-v1.4.2.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kawaiscans-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9d0d6f5433be2e5d2e633e50c7e515a7f40d504f",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kawaiscans-v1.4.2.apk"
-    }
-  },
-  {
     "name": "tachiyomi-en.kaynscans-v1.4.18.apk",
     "path": "apk/tachiyomi-en.kaynscans-v1.4.18.apk",
     "sha": "3b8330c1a2ffff6ebc2b479fa4fa8da58b3a0fe2",
@@ -7152,19 +7136,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.novel24h-v1.4.45.apk",
-    "path": "apk/tachiyomi-en.novel24h-v1.4.45.apk",
-    "sha": "fde98c5486399562c20a3714f2226a70129d0587",
-    "size": 82559,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.novel24h-v1.4.45.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.novel24h-v1.4.45.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/fde98c5486399562c20a3714f2226a70129d0587",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.novel24h-v1.4.45.apk",
+    "name": "tachiyomi-en.novel24h-v1.4.46.apk",
+    "path": "apk/tachiyomi-en.novel24h-v1.4.46.apk",
+    "sha": "672500fed68ec8382720e6b9c15f1c36f4203abc",
+    "size": 82410,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.novel24h-v1.4.46.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.novel24h-v1.4.46.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/672500fed68ec8382720e6b9c15f1c36f4203abc",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.novel24h-v1.4.46.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.novel24h-v1.4.45.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/fde98c5486399562c20a3714f2226a70129d0587",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.novel24h-v1.4.45.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.novel24h-v1.4.46.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/672500fed68ec8382720e6b9c15f1c36f4203abc",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.novel24h-v1.4.46.apk"
     }
   },
   {
@@ -8752,19 +8736,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.theblank-v1.4.52.apk",
-    "path": "apk/tachiyomi-en.theblank-v1.4.52.apk",
-    "sha": "b7857f48ef94778c2dac00d81137daea635496af",
-    "size": 87417,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.theblank-v1.4.52.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.theblank-v1.4.52.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b7857f48ef94778c2dac00d81137daea635496af",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.theblank-v1.4.52.apk",
+    "name": "tachiyomi-en.theblank-v1.4.53.apk",
+    "path": "apk/tachiyomi-en.theblank-v1.4.53.apk",
+    "sha": "4c588b79b99a116a1391b63f80d73dd86ff759fc",
+    "size": 87634,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.theblank-v1.4.53.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.theblank-v1.4.53.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4c588b79b99a116a1391b63f80d73dd86ff759fc",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.theblank-v1.4.53.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.theblank-v1.4.52.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b7857f48ef94778c2dac00d81137daea635496af",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.theblank-v1.4.52.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.theblank-v1.4.53.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4c588b79b99a116a1391b63f80d73dd86ff759fc",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.theblank-v1.4.53.apk"
     }
   },
   {
@@ -13277,6 +13261,22 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.soulscans-v1.4.32.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6f640e00b15c02bb703daf512e51f5cd07d3c763",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.soulscans-v1.4.32.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-id.themanga-v1.4.45.apk",
+    "path": "apk/tachiyomi-id.themanga-v1.4.45.apk",
+    "sha": "68df62bdaa1b178220f193381ebf013c647a2815",
+    "size": 104502,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.themanga-v1.4.45.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.themanga-v1.4.45.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/68df62bdaa1b178220f193381ebf013c647a2815",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-id.themanga-v1.4.45.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.themanga-v1.4.45.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/68df62bdaa1b178220f193381ebf013c647a2815",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.themanga-v1.4.45.apk"
     }
   },
   {
