@@ -11216,6 +11216,22 @@
     }
   },
   {
+    "name": "tachiyomi-es.yupmanga-v1.4.1.apk",
+    "path": "apk/tachiyomi-es.yupmanga-v1.4.1.apk",
+    "sha": "06799134bb4e941005705ec8b5030945da68188a",
+    "size": 50926,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.yupmanga-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.yupmanga-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/06799134bb4e941005705ec8b5030945da68188a",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.yupmanga-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.yupmanga-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/06799134bb4e941005705ec8b5030945da68188a",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.yupmanga-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-es.yurionline-v1.4.45.apk",
     "path": "apk/tachiyomi-es.yurionline-v1.4.45.apk",
     "sha": "e000a9143cdd742939244a578967f45747533deb",
@@ -14320,6 +14336,22 @@
     }
   },
   {
+    "name": "tachiyomi-ja.mangaupjapan-v1.4.1.apk",
+    "path": "apk/tachiyomi-ja.mangaupjapan-v1.4.1.apk",
+    "sha": "047ab058f20bd4b99ab6146bd669ac57c0bbe89c",
+    "size": 61872,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.mangaupjapan-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.mangaupjapan-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/047ab058f20bd4b99ab6146bd669ac57c0bbe89c",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ja.mangaupjapan-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.mangaupjapan-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/047ab058f20bd4b99ab6146bd669ac57c0bbe89c",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.mangaupjapan-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-ja.momonga-v1.4.1.apk",
     "path": "apk/tachiyomi-ja.momonga-v1.4.1.apk",
     "sha": "c7f08b2357bb2387964dfee08481b9e4f8f73214",
@@ -15965,38 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mangalivreblog-v1.4.1.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d6d976f2b29e4507c086a7d9c8449d602d6dae91",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mangalivreblog-v1.4.1.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.mangalivreto-v1.4.46.apk",
-    "path": "apk/tachiyomi-pt.mangalivreto-v1.4.46.apk",
-    "sha": "ae889dfcb4fb04796d90666c34f2fc9b7f1ac968",
-    "size": 77796,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ae889dfcb4fb04796d90666c34f2fc9b7f1ac968",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ae889dfcb4fb04796d90666c34f2fc9b7f1ac968",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.mangaonline-v1.4.46.apk",
-    "path": "apk/tachiyomi-pt.mangaonline-v1.4.46.apk",
-    "sha": "81867c0e81460f154ffffade1b933ade3a19343d",
-    "size": 72598,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mangaonline-v1.4.46.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mangaonline-v1.4.46.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/81867c0e81460f154ffffade1b933ade3a19343d",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.mangaonline-v1.4.46.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mangaonline-v1.4.46.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/81867c0e81460f154ffffade1b933ade3a19343d",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mangaonline-v1.4.46.apk"
     }
   }
 ]
