@@ -2272,19 +2272,19 @@
     }
   },
   {
-    "name": "tachiyomi-ar.mangapro-v1.4.44.apk",
-    "path": "apk/tachiyomi-ar.mangapro-v1.4.44.apk",
-    "sha": "af3faf70cf4a477ccf42272b9bd25b4bf2b43cd7",
-    "size": 102980,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ar.mangapro-v1.4.44.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ar.mangapro-v1.4.44.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/af3faf70cf4a477ccf42272b9bd25b4bf2b43cd7",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ar.mangapro-v1.4.44.apk",
+    "name": "tachiyomi-ar.mangapro-v1.4.45.apk",
+    "path": "apk/tachiyomi-ar.mangapro-v1.4.45.apk",
+    "sha": "2c79566bc5b1b378f397ffea033b1a1e9a1a0043",
+    "size": 105549,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ar.mangapro-v1.4.45.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ar.mangapro-v1.4.45.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2c79566bc5b1b378f397ffea033b1a1e9a1a0043",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ar.mangapro-v1.4.45.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ar.mangapro-v1.4.44.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/af3faf70cf4a477ccf42272b9bd25b4bf2b43cd7",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ar.mangapro-v1.4.44.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ar.mangapro-v1.4.45.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2c79566bc5b1b378f397ffea033b1a1e9a1a0043",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ar.mangapro-v1.4.45.apk"
     }
   },
   {
