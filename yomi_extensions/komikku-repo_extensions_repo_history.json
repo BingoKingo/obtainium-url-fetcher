@@ -2352,19 +2352,19 @@
     }
   },
   {
-    "name": "tachiyomi-ar.mangapro-v1.4.44.apk",
-    "path": "apk/tachiyomi-ar.mangapro-v1.4.44.apk",
-    "sha": "f02dabd6658849381deb89abc573adc83a36861f",
-    "size": 102957,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.mangapro-v1.4.44.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.mangapro-v1.4.44.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f02dabd6658849381deb89abc573adc83a36861f",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ar.mangapro-v1.4.44.apk",
+    "name": "tachiyomi-ar.mangapro-v1.4.45.apk",
+    "path": "apk/tachiyomi-ar.mangapro-v1.4.45.apk",
+    "sha": "3809c5cb4203aba2bb394dde7fb53dc66aa8c332",
+    "size": 105523,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.mangapro-v1.4.45.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.mangapro-v1.4.45.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/3809c5cb4203aba2bb394dde7fb53dc66aa8c332",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ar.mangapro-v1.4.45.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.mangapro-v1.4.44.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f02dabd6658849381deb89abc573adc83a36861f",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.mangapro-v1.4.44.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.mangapro-v1.4.45.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/3809c5cb4203aba2bb394dde7fb53dc66aa8c332",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.mangapro-v1.4.45.apk"
     }
   },
   {
