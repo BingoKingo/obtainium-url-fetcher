@@ -1104,19 +1104,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.manhuarm-v1.4.61.apk",
-    "path": "apk/tachiyomi-all.manhuarm-v1.4.61.apk",
-    "sha": "4843551770d5483b0a8f5cdb5948fc093c7cb029",
-    "size": 246709,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.manhuarm-v1.4.61.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.manhuarm-v1.4.61.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4843551770d5483b0a8f5cdb5948fc093c7cb029",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.manhuarm-v1.4.61.apk",
+    "name": "tachiyomi-all.manhuarm-v1.4.62.apk",
+    "path": "apk/tachiyomi-all.manhuarm-v1.4.62.apk",
+    "sha": "5dc6184b4e0591e370d3be730fd8991d4c61c428",
+    "size": 245462,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.manhuarm-v1.4.62.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.manhuarm-v1.4.62.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5dc6184b4e0591e370d3be730fd8991d4c61c428",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.manhuarm-v1.4.62.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.manhuarm-v1.4.61.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4843551770d5483b0a8f5cdb5948fc093c7cb029",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.manhuarm-v1.4.61.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.manhuarm-v1.4.62.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5dc6184b4e0591e370d3be730fd8991d4c61c428",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.manhuarm-v1.4.62.apk"
     }
   },
   {
