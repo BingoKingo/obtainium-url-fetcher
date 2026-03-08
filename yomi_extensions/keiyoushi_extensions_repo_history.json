@@ -5680,19 +5680,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangago-v1.4.28.apk",
-    "path": "apk/tachiyomi-en.mangago-v1.4.28.apk",
-    "sha": "b2ab8ab3a52d4298b03d60c8be900c6cc8d67256",
-    "size": 74253,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangago-v1.4.28.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangago-v1.4.28.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b2ab8ab3a52d4298b03d60c8be900c6cc8d67256",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangago-v1.4.28.apk",
+    "name": "tachiyomi-en.mangago-v1.4.29.apk",
+    "path": "apk/tachiyomi-en.mangago-v1.4.29.apk",
+    "sha": "249fa4af57d032b5f6fda1e26d06de7168476d65",
+    "size": 74252,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangago-v1.4.29.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangago-v1.4.29.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/249fa4af57d032b5f6fda1e26d06de7168476d65",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangago-v1.4.29.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangago-v1.4.28.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b2ab8ab3a52d4298b03d60c8be900c6cc8d67256",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangago-v1.4.28.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangago-v1.4.29.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/249fa4af57d032b5f6fda1e26d06de7168476d65",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangago-v1.4.29.apk"
     }
   },
   {
