@@ -11808,19 +11808,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.scanmanga-v1.4.17.apk",
-    "path": "apk/tachiyomi-fr.scanmanga-v1.4.17.apk",
-    "sha": "cff9859a67dff4171eb7043df60bc3c2081e05bc",
-    "size": 64205,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.scanmanga-v1.4.17.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.scanmanga-v1.4.17.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cff9859a67dff4171eb7043df60bc3c2081e05bc",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.scanmanga-v1.4.17.apk",
+    "name": "tachiyomi-fr.scanmanga-v1.4.18.apk",
+    "path": "apk/tachiyomi-fr.scanmanga-v1.4.18.apk",
+    "sha": "2f16b561d55563393838e9b11a9720628b302191",
+    "size": 64216,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.scanmanga-v1.4.18.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.scanmanga-v1.4.18.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2f16b561d55563393838e9b11a9720628b302191",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.scanmanga-v1.4.18.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.scanmanga-v1.4.17.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cff9859a67dff4171eb7043df60bc3c2081e05bc",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.scanmanga-v1.4.17.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.scanmanga-v1.4.18.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2f16b561d55563393838e9b11a9720628b302191",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.scanmanga-v1.4.18.apk"
     }
   },
   {
