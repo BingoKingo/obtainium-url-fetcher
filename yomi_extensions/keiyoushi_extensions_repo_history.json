@@ -1488,19 +1488,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.sakuramanhwa-v1.4.3.apk",
-    "path": "apk/tachiyomi-all.sakuramanhwa-v1.4.3.apk",
-    "sha": "6b4e3733c551d804a3f71135776a804a339b5bfe",
-    "size": 95047,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.sakuramanhwa-v1.4.3.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.sakuramanhwa-v1.4.3.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6b4e3733c551d804a3f71135776a804a339b5bfe",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.sakuramanhwa-v1.4.3.apk",
+    "name": "tachiyomi-all.sakuramanhwa-v1.4.4.apk",
+    "path": "apk/tachiyomi-all.sakuramanhwa-v1.4.4.apk",
+    "sha": "f46be18f494cdacd3384ce227c880478ba68f327",
+    "size": 95638,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.sakuramanhwa-v1.4.4.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.sakuramanhwa-v1.4.4.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f46be18f494cdacd3384ce227c880478ba68f327",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.sakuramanhwa-v1.4.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.sakuramanhwa-v1.4.3.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6b4e3733c551d804a3f71135776a804a339b5bfe",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.sakuramanhwa-v1.4.3.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.sakuramanhwa-v1.4.4.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f46be18f494cdacd3384ce227c880478ba68f327",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.sakuramanhwa-v1.4.4.apk"
     }
   },
   {
@@ -11808,19 +11808,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.scanmanga-v1.4.18.apk",
-    "path": "apk/tachiyomi-fr.scanmanga-v1.4.18.apk",
-    "sha": "2f16b561d55563393838e9b11a9720628b302191",
-    "size": 64216,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.scanmanga-v1.4.18.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.scanmanga-v1.4.18.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2f16b561d55563393838e9b11a9720628b302191",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.scanmanga-v1.4.18.apk",
+    "name": "tachiyomi-fr.scanmanga-v1.4.19.apk",
+    "path": "apk/tachiyomi-fr.scanmanga-v1.4.19.apk",
+    "sha": "503832faf4dd2b60978aca1395a9d803f46c057c",
+    "size": 72545,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.scanmanga-v1.4.19.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.scanmanga-v1.4.19.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/503832faf4dd2b60978aca1395a9d803f46c057c",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.scanmanga-v1.4.19.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.scanmanga-v1.4.18.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2f16b561d55563393838e9b11a9720628b302191",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.scanmanga-v1.4.18.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.scanmanga-v1.4.19.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/503832faf4dd2b60978aca1395a9d803f46c057c",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.scanmanga-v1.4.19.apk"
     }
   },
   {
