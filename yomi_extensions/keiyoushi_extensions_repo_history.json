@@ -8784,19 +8784,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.valirscans-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.valirscans-v1.4.19.apk",
-    "sha": "f7225e4f0be87d26fde953c73e5e38515fe5e3e0",
-    "size": 67228,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.valirscans-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.valirscans-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f7225e4f0be87d26fde953c73e5e38515fe5e3e0",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.valirscans-v1.4.19.apk",
+    "name": "tachiyomi-en.valirscans-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.valirscans-v1.4.20.apk",
+    "sha": "3ca2ccfd532348f739f76c683d4f66b7546795da",
+    "size": 74750,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.valirscans-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.valirscans-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3ca2ccfd532348f739f76c683d4f66b7546795da",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.valirscans-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.valirscans-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f7225e4f0be87d26fde953c73e5e38515fe5e3e0",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.valirscans-v1.4.19.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.valirscans-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3ca2ccfd532348f739f76c683d4f66b7546795da",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.valirscans-v1.4.20.apk"
     }
   },
   {
@@ -13968,35 +13968,35 @@
     }
   },
   {
-    "name": "tachiyomi-ja.drecomics-v1.4.1.apk",
-    "path": "apk/tachiyomi-ja.drecomics-v1.4.1.apk",
-    "sha": "32a837b096e1852603170391bfe053cfc135fe8e",
-    "size": 61622,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.drecomics-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.drecomics-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/32a837b096e1852603170391bfe053cfc135fe8e",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ja.drecomics-v1.4.1.apk",
+    "name": "tachiyomi-ja.drecomics-v1.4.2.apk",
+    "path": "apk/tachiyomi-ja.drecomics-v1.4.2.apk",
+    "sha": "644e7abc827f2a3af6df03f118765983c29aba6c",
+    "size": 61885,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.drecomics-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.drecomics-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/644e7abc827f2a3af6df03f118765983c29aba6c",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ja.drecomics-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.drecomics-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/32a837b096e1852603170391bfe053cfc135fe8e",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.drecomics-v1.4.1.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.drecomics-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/644e7abc827f2a3af6df03f118765983c29aba6c",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.drecomics-v1.4.2.apk"
     }
   },
   {
-    "name": "tachiyomi-ja.firecross-v1.4.1.apk",
-    "path": "apk/tachiyomi-ja.firecross-v1.4.1.apk",
-    "sha": "6baa354f4eb4841b6ad373bf75067517d666bf05",
-    "size": 64550,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.firecross-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.firecross-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6baa354f4eb4841b6ad373bf75067517d666bf05",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ja.firecross-v1.4.1.apk",
+    "name": "tachiyomi-ja.firecross-v1.4.2.apk",
+    "path": "apk/tachiyomi-ja.firecross-v1.4.2.apk",
+    "sha": "3967048e294af145b1efbd6c83e9fc3228652c33",
+    "size": 65869,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.firecross-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.firecross-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3967048e294af145b1efbd6c83e9fc3228652c33",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ja.firecross-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.firecross-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6baa354f4eb4841b6ad373bf75067517d666bf05",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.firecross-v1.4.1.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.firecross-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3967048e294af145b1efbd6c83e9fc3228652c33",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.firecross-v1.4.2.apk"
     }
   },
   {
