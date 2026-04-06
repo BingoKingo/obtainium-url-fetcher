@@ -8864,19 +8864,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.valirscans-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.valirscans-v1.4.19.apk",
-    "sha": "dfd5feba4fd51efa68b1e2ddeee1fce441c08ed6",
-    "size": 67203,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.valirscans-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.valirscans-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/dfd5feba4fd51efa68b1e2ddeee1fce441c08ed6",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.valirscans-v1.4.19.apk",
+    "name": "tachiyomi-en.valirscans-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.valirscans-v1.4.20.apk",
+    "sha": "643d0b93fd76790b6e05cb4e686f100daae19218",
+    "size": 74728,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.valirscans-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.valirscans-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/643d0b93fd76790b6e05cb4e686f100daae19218",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.valirscans-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.valirscans-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/dfd5feba4fd51efa68b1e2ddeee1fce441c08ed6",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.valirscans-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.valirscans-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/643d0b93fd76790b6e05cb4e686f100daae19218",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.valirscans-v1.4.20.apk"
     }
   },
   {
@@ -14064,35 +14064,35 @@
     }
   },
   {
-    "name": "tachiyomi-ja.drecomics-v1.4.1.apk",
-    "path": "apk/tachiyomi-ja.drecomics-v1.4.1.apk",
-    "sha": "d2ec400085efc648158c8d7909f67f8f64343912",
-    "size": 61598,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.drecomics-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.drecomics-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/d2ec400085efc648158c8d7909f67f8f64343912",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ja.drecomics-v1.4.1.apk",
+    "name": "tachiyomi-ja.drecomics-v1.4.2.apk",
+    "path": "apk/tachiyomi-ja.drecomics-v1.4.2.apk",
+    "sha": "8071165a5b09da9b91254e481afabade162af98f",
+    "size": 61859,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.drecomics-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.drecomics-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/8071165a5b09da9b91254e481afabade162af98f",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ja.drecomics-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.drecomics-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/d2ec400085efc648158c8d7909f67f8f64343912",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.drecomics-v1.4.1.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.drecomics-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/8071165a5b09da9b91254e481afabade162af98f",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.drecomics-v1.4.2.apk"
     }
   },
   {
-    "name": "tachiyomi-ja.firecross-v1.4.1.apk",
-    "path": "apk/tachiyomi-ja.firecross-v1.4.1.apk",
-    "sha": "845cf9b7ad9baa2b03c73cd59835d8798e8faf1e",
-    "size": 64524,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.firecross-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.firecross-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/845cf9b7ad9baa2b03c73cd59835d8798e8faf1e",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ja.firecross-v1.4.1.apk",
+    "name": "tachiyomi-ja.firecross-v1.4.2.apk",
+    "path": "apk/tachiyomi-ja.firecross-v1.4.2.apk",
+    "sha": "87c26dc4066c20aed1f9fbebb46e30a9aec40280",
+    "size": 65847,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.firecross-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.firecross-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/87c26dc4066c20aed1f9fbebb46e30a9aec40280",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ja.firecross-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.firecross-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/845cf9b7ad9baa2b03c73cd59835d8798e8faf1e",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.firecross-v1.4.1.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.firecross-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/87c26dc4066c20aed1f9fbebb46e30a9aec40280",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.firecross-v1.4.2.apk"
     }
   },
   {
