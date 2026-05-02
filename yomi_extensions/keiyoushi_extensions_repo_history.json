@@ -368,19 +368,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.everiaclub-v1.4.11.apk",
-    "path": "apk/tachiyomi-all.everiaclub-v1.4.11.apk",
-    "sha": "1f789b90be568063479d31b9b02332cb2ff5227d",
-    "size": 88649,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.everiaclub-v1.4.11.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.everiaclub-v1.4.11.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/1f789b90be568063479d31b9b02332cb2ff5227d",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.everiaclub-v1.4.11.apk",
+    "name": "tachiyomi-all.everiaclub-v1.4.12.apk",
+    "path": "apk/tachiyomi-all.everiaclub-v1.4.12.apk",
+    "sha": "9d2f0cbdaad1d225b23fa7de96839fceb3a0d255",
+    "size": 90755,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.everiaclub-v1.4.12.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.everiaclub-v1.4.12.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9d2f0cbdaad1d225b23fa7de96839fceb3a0d255",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.everiaclub-v1.4.12.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.everiaclub-v1.4.11.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/1f789b90be568063479d31b9b02332cb2ff5227d",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.everiaclub-v1.4.11.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.everiaclub-v1.4.12.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9d2f0cbdaad1d225b23fa7de96839fceb3a0d255",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.everiaclub-v1.4.12.apk"
     }
   },
   {
@@ -9840,19 +9840,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.catharsisworld-v1.4.57.apk",
-    "path": "apk/tachiyomi-es.catharsisworld-v1.4.57.apk",
-    "sha": "5bb732b3877d80745ee03e986d13d77a93041a32",
-    "size": 85091,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.catharsisworld-v1.4.57.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.catharsisworld-v1.4.57.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5bb732b3877d80745ee03e986d13d77a93041a32",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.catharsisworld-v1.4.57.apk",
+    "name": "tachiyomi-es.catharsisworld-v1.4.58.apk",
+    "path": "apk/tachiyomi-es.catharsisworld-v1.4.58.apk",
+    "sha": "2a1d2170da30723459d4b0a078fbe70cf81e40ee",
+    "size": 85093,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.catharsisworld-v1.4.58.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.catharsisworld-v1.4.58.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2a1d2170da30723459d4b0a078fbe70cf81e40ee",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.catharsisworld-v1.4.58.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.catharsisworld-v1.4.57.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5bb732b3877d80745ee03e986d13d77a93041a32",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.catharsisworld-v1.4.57.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.catharsisworld-v1.4.58.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2a1d2170da30723459d4b0a078fbe70cf81e40ee",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.catharsisworld-v1.4.58.apk"
     }
   },
   {
@@ -10096,19 +10096,35 @@
     }
   },
   {
-    "name": "tachiyomi-es.emperorscan-v1.4.57.apk",
-    "path": "apk/tachiyomi-es.emperorscan-v1.4.57.apk",
-    "sha": "0f26ee30bd1bc0fb60a4f550569e324db5a4b516",
-    "size": 150783,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.emperorscan-v1.4.57.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.emperorscan-v1.4.57.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0f26ee30bd1bc0fb60a4f550569e324db5a4b516",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.emperorscan-v1.4.57.apk",
+    "name": "tachiyomi-es.elscansemanal-v1.4.4.apk",
+    "path": "apk/tachiyomi-es.elscansemanal-v1.4.4.apk",
+    "sha": "3c41d2ac1d593e77cd361cae53f6c49af87a1e06",
+    "size": 88054,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.elscansemanal-v1.4.4.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.elscansemanal-v1.4.4.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3c41d2ac1d593e77cd361cae53f6c49af87a1e06",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.elscansemanal-v1.4.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.emperorscan-v1.4.57.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0f26ee30bd1bc0fb60a4f550569e324db5a4b516",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.emperorscan-v1.4.57.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.elscansemanal-v1.4.4.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3c41d2ac1d593e77cd361cae53f6c49af87a1e06",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.elscansemanal-v1.4.4.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-es.emperorscan-v1.4.58.apk",
+    "path": "apk/tachiyomi-es.emperorscan-v1.4.58.apk",
+    "sha": "bfc6506185da91807680348279c6450b4b1e338c",
+    "size": 150784,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.emperorscan-v1.4.58.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.emperorscan-v1.4.58.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/bfc6506185da91807680348279c6450b4b1e338c",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.emperorscan-v1.4.58.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.emperorscan-v1.4.58.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/bfc6506185da91807680348279c6450b4b1e338c",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.emperorscan-v1.4.58.apk"
     }
   },
   {
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.argoscomics-v1.4.53.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/47ebedb4c709609c49e42eb1f89e187966ca7736",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.argoscomics-v1.4.53.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.argosscan-v1.4.28.apk",
-    "path": "apk/tachiyomi-pt.argosscan-v1.4.28.apk",
-    "sha": "b6119b48ca6eeb6ab2c9ba2f3b5ceafc9989e6fe",
-    "size": 58395,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.argosscan-v1.4.28.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.argosscan-v1.4.28.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b6119b48ca6eeb6ab2c9ba2f3b5ceafc9989e6fe",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.argosscan-v1.4.28.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.argosscan-v1.4.28.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b6119b48ca6eeb6ab2c9ba2f3b5ceafc9989e6fe",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.argosscan-v1.4.28.apk"
     }
   }
 ]
