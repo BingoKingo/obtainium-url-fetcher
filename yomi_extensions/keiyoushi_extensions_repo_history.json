@@ -10576,19 +10576,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.leercapitulo-v1.4.15.apk",
-    "path": "apk/tachiyomi-es.leercapitulo-v1.4.15.apk",
-    "sha": "5dd2ae834d457ef44a77357f5dca97af8e9a1ecb",
-    "size": 218489,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.leercapitulo-v1.4.15.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.leercapitulo-v1.4.15.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5dd2ae834d457ef44a77357f5dca97af8e9a1ecb",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.leercapitulo-v1.4.15.apk",
+    "name": "tachiyomi-es.leercapitulo-v1.4.16.apk",
+    "path": "apk/tachiyomi-es.leercapitulo-v1.4.16.apk",
+    "sha": "14c2f3d801014f3c7304c644b21b9ca36c8b89d7",
+    "size": 218278,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.leercapitulo-v1.4.16.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.leercapitulo-v1.4.16.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/14c2f3d801014f3c7304c644b21b9ca36c8b89d7",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.leercapitulo-v1.4.16.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.leercapitulo-v1.4.15.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5dd2ae834d457ef44a77357f5dca97af8e9a1ecb",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.leercapitulo-v1.4.15.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.leercapitulo-v1.4.16.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/14c2f3d801014f3c7304c644b21b9ca36c8b89d7",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.leercapitulo-v1.4.16.apk"
     }
   },
   {
@@ -10768,35 +10768,35 @@
     }
   },
   {
-    "name": "tachiyomi-es.mangasin-v1.4.17.apk",
-    "path": "apk/tachiyomi-es.mangasin-v1.4.17.apk",
-    "sha": "52347ff61c4f6d2e0bbcf1705c82b1a66708510f",
-    "size": 210883,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangasin-v1.4.17.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangasin-v1.4.17.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/52347ff61c4f6d2e0bbcf1705c82b1a66708510f",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.mangasin-v1.4.17.apk",
+    "name": "tachiyomi-es.mangasin-v1.4.18.apk",
+    "path": "apk/tachiyomi-es.mangasin-v1.4.18.apk",
+    "sha": "da6783995bc3e2fd597e9ce078f6e89ad9d9d808",
+    "size": 210706,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangasin-v1.4.18.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangasin-v1.4.18.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/da6783995bc3e2fd597e9ce078f6e89ad9d9d808",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.mangasin-v1.4.18.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangasin-v1.4.17.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/52347ff61c4f6d2e0bbcf1705c82b1a66708510f",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangasin-v1.4.17.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangasin-v1.4.18.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/da6783995bc3e2fd597e9ce078f6e89ad9d9d808",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangasin-v1.4.18.apk"
     }
   },
   {
-    "name": "tachiyomi-es.mangasnosekai-v1.4.63.apk",
-    "path": "apk/tachiyomi-es.mangasnosekai-v1.4.63.apk",
-    "sha": "4b6a614d53ffbbfde7ef594394cf8d9bf0ba7e05",
-    "size": 246464,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangasnosekai-v1.4.63.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangasnosekai-v1.4.63.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4b6a614d53ffbbfde7ef594394cf8d9bf0ba7e05",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.mangasnosekai-v1.4.63.apk",
+    "name": "tachiyomi-es.mangasnosekai-v1.4.64.apk",
+    "path": "apk/tachiyomi-es.mangasnosekai-v1.4.64.apk",
+    "sha": "89f3f2e41792a9f37c57fc0e6e31c4ceafcb1f1b",
+    "size": 246235,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangasnosekai-v1.4.64.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangasnosekai-v1.4.64.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/89f3f2e41792a9f37c57fc0e6e31c4ceafcb1f1b",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.mangasnosekai-v1.4.64.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangasnosekai-v1.4.63.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4b6a614d53ffbbfde7ef594394cf8d9bf0ba7e05",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangasnosekai-v1.4.63.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangasnosekai-v1.4.64.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/89f3f2e41792a9f37c57fc0e6e31c4ceafcb1f1b",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangasnosekai-v1.4.64.apk"
     }
   },
   {
