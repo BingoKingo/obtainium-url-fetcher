@@ -5680,19 +5680,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangacloud-v1.4.3.apk",
-    "path": "apk/tachiyomi-en.mangacloud-v1.4.3.apk",
-    "sha": "4da0c666653dfa80510ecc4073a300adecedc3e9",
-    "size": 56951,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangacloud-v1.4.3.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangacloud-v1.4.3.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4da0c666653dfa80510ecc4073a300adecedc3e9",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangacloud-v1.4.3.apk",
+    "name": "tachiyomi-en.mangacloud-v1.4.4.apk",
+    "path": "apk/tachiyomi-en.mangacloud-v1.4.4.apk",
+    "sha": "98869eadfded4a0a747ed86b63bf6df9032f7351",
+    "size": 56671,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangacloud-v1.4.4.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangacloud-v1.4.4.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/98869eadfded4a0a747ed86b63bf6df9032f7351",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangacloud-v1.4.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangacloud-v1.4.3.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4da0c666653dfa80510ecc4073a300adecedc3e9",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangacloud-v1.4.3.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangacloud-v1.4.4.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/98869eadfded4a0a747ed86b63bf6df9032f7351",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangacloud-v1.4.4.apk"
     }
   },
   {
