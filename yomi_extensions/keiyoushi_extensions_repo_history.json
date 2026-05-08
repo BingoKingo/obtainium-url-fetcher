@@ -3616,19 +3616,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.comix-v1.4.12.apk",
-    "path": "apk/tachiyomi-en.comix-v1.4.12.apk",
-    "sha": "3f0d991a1adf07e6a961edd1c823759714ac1fae",
-    "size": 78983,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.comix-v1.4.12.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.comix-v1.4.12.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3f0d991a1adf07e6a961edd1c823759714ac1fae",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.comix-v1.4.12.apk",
+    "name": "tachiyomi-en.comix-v1.4.14.apk",
+    "path": "apk/tachiyomi-en.comix-v1.4.14.apk",
+    "sha": "b7019724b23954236f644ce29687457d377e5a9d",
+    "size": 79979,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.comix-v1.4.14.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.comix-v1.4.14.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b7019724b23954236f644ce29687457d377e5a9d",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.comix-v1.4.14.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.comix-v1.4.12.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3f0d991a1adf07e6a961edd1c823759714ac1fae",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.comix-v1.4.12.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.comix-v1.4.14.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b7019724b23954236f644ce29687457d377e5a9d",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.comix-v1.4.14.apk"
     }
   },
   {
@@ -11200,19 +11200,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.onfmangas-v1.4.1.apk",
-    "path": "apk/tachiyomi-es.onfmangas-v1.4.1.apk",
-    "sha": "e70a752d4d6c26c97c877ee0a9068e74084682c8",
-    "size": 66842,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.onfmangas-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.onfmangas-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/e70a752d4d6c26c97c877ee0a9068e74084682c8",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.onfmangas-v1.4.1.apk",
+    "name": "tachiyomi-es.onfmangas-v1.4.2.apk",
+    "path": "apk/tachiyomi-es.onfmangas-v1.4.2.apk",
+    "sha": "a17c34376b4b8cb05ce6547f10e11e7b839ddaee",
+    "size": 67323,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.onfmangas-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.onfmangas-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a17c34376b4b8cb05ce6547f10e11e7b839ddaee",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.onfmangas-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.onfmangas-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/e70a752d4d6c26c97c877ee0a9068e74084682c8",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.onfmangas-v1.4.1.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.onfmangas-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a17c34376b4b8cb05ce6547f10e11e7b839ddaee",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.onfmangas-v1.4.2.apk"
     }
   },
   {
