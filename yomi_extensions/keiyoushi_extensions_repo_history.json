@@ -3600,19 +3600,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.comix-v1.4.15.apk",
-    "path": "apk/tachiyomi-en.comix-v1.4.15.apk",
-    "sha": "321a7f61a57bf594029481638249ad00479b85e8",
-    "size": 87765,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.comix-v1.4.15.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.comix-v1.4.15.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/321a7f61a57bf594029481638249ad00479b85e8",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.comix-v1.4.15.apk",
+    "name": "tachiyomi-en.comix-v1.4.16.apk",
+    "path": "apk/tachiyomi-en.comix-v1.4.16.apk",
+    "sha": "b00d567d1b47365aa0b2ef7acf90f143e48f1aa7",
+    "size": 88701,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.comix-v1.4.16.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.comix-v1.4.16.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b00d567d1b47365aa0b2ef7acf90f143e48f1aa7",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.comix-v1.4.16.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.comix-v1.4.15.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/321a7f61a57bf594029481638249ad00479b85e8",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.comix-v1.4.15.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.comix-v1.4.16.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b00d567d1b47365aa0b2ef7acf90f143e48f1aa7",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.comix-v1.4.16.apk"
     }
   },
   {
@@ -7104,19 +7104,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.manhwaz-v1.4.40.apk",
-    "path": "apk/tachiyomi-en.manhwaz-v1.4.40.apk",
-    "sha": "334a0f05ba913c6ecb004235c765d08d8dbf31e1",
-    "size": 43740,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.manhwaz-v1.4.40.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.manhwaz-v1.4.40.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/334a0f05ba913c6ecb004235c765d08d8dbf31e1",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.manhwaz-v1.4.40.apk",
+    "name": "tachiyomi-en.manhwaz-v1.4.41.apk",
+    "path": "apk/tachiyomi-en.manhwaz-v1.4.41.apk",
+    "sha": "31b546a6ac08c2529a13f79dd8bfff45319b255e",
+    "size": 43879,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.manhwaz-v1.4.41.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.manhwaz-v1.4.41.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/31b546a6ac08c2529a13f79dd8bfff45319b255e",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.manhwaz-v1.4.41.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.manhwaz-v1.4.40.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/334a0f05ba913c6ecb004235c765d08d8dbf31e1",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.manhwaz-v1.4.40.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.manhwaz-v1.4.41.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/31b546a6ac08c2529a13f79dd8bfff45319b255e",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.manhwaz-v1.4.41.apk"
     }
   },
   {
