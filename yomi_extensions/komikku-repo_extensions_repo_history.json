@@ -11872,19 +11872,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.yupmanga-v1.4.10.apk",
-    "path": "apk/tachiyomi-es.yupmanga-v1.4.10.apk",
-    "sha": "2a481c6eee8812e99d1ade66da5526cc05925ac0",
-    "size": 49722,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.yupmanga-v1.4.10.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.yupmanga-v1.4.10.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2a481c6eee8812e99d1ade66da5526cc05925ac0",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.yupmanga-v1.4.10.apk",
+    "name": "tachiyomi-es.yupmanga-v1.4.11.apk",
+    "path": "apk/tachiyomi-es.yupmanga-v1.4.11.apk",
+    "sha": "c2d68433755f3e269db6d0e0a6ea48a54c775483",
+    "size": 49837,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.yupmanga-v1.4.11.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.yupmanga-v1.4.11.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c2d68433755f3e269db6d0e0a6ea48a54c775483",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.yupmanga-v1.4.11.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.yupmanga-v1.4.10.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2a481c6eee8812e99d1ade66da5526cc05925ac0",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.yupmanga-v1.4.10.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.yupmanga-v1.4.11.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c2d68433755f3e269db6d0e0a6ea48a54c775483",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.yupmanga-v1.4.11.apk"
     }
   },
   {
