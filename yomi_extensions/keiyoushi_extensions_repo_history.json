@@ -11856,19 +11856,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.yupmanga-v1.4.10.apk",
-    "path": "apk/tachiyomi-es.yupmanga-v1.4.10.apk",
-    "sha": "4d702cca4e46caf06089c6c2f442b01cf4f337e3",
-    "size": 49745,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.yupmanga-v1.4.10.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.yupmanga-v1.4.10.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4d702cca4e46caf06089c6c2f442b01cf4f337e3",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.yupmanga-v1.4.10.apk",
+    "name": "tachiyomi-es.yupmanga-v1.4.11.apk",
+    "path": "apk/tachiyomi-es.yupmanga-v1.4.11.apk",
+    "sha": "da9e1f017534e9b016d958d6c992b263105d45da",
+    "size": 49860,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.yupmanga-v1.4.11.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.yupmanga-v1.4.11.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/da9e1f017534e9b016d958d6c992b263105d45da",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.yupmanga-v1.4.11.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.yupmanga-v1.4.10.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4d702cca4e46caf06089c6c2f442b01cf4f337e3",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.yupmanga-v1.4.10.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.yupmanga-v1.4.11.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/da9e1f017534e9b016d958d6c992b263105d45da",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.yupmanga-v1.4.11.apk"
     }
   },
   {
