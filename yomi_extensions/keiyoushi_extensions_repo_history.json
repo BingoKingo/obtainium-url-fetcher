@@ -800,6 +800,22 @@
     }
   },
   {
+    "name": "tachiyomi-all.kagane-v1.4.25.apk",
+    "path": "apk/tachiyomi-all.kagane-v1.4.25.apk",
+    "sha": "d2d2c48c6d11392751a62bbabe16ee48e49653d6",
+    "size": 81215,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.kagane-v1.4.25.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.kagane-v1.4.25.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d2d2c48c6d11392751a62bbabe16ee48e49653d6",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.kagane-v1.4.25.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.kagane-v1.4.25.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d2d2c48c6d11392751a62bbabe16ee48e49653d6",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.kagane-v1.4.25.apk"
+    }
+  },
+  {
     "name": "tachiyomi-all.kemono-v1.4.24.apk",
     "path": "apk/tachiyomi-all.kemono-v1.4.24.apk",
     "sha": "f970449625d05fd0704857756b617debada4bb01",
@@ -5021,22 +5037,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.jnovel-v1.4.2.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/7fe4e1278d9f628665b0b7ce4589a99febe71f40",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.jnovel-v1.4.2.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-en.kagane-v1.4.24.apk",
-    "path": "apk/tachiyomi-en.kagane-v1.4.24.apk",
-    "sha": "0f23d6ed5006c7b4034383a6bfe4e9fc64b4e2a7",
-    "size": 118950,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kagane-v1.4.24.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kagane-v1.4.24.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0f23d6ed5006c7b4034383a6bfe4e9fc64b4e2a7",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.kagane-v1.4.24.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kagane-v1.4.24.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0f23d6ed5006c7b4034383a6bfe4e9fc64b4e2a7",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kagane-v1.4.24.apk"
     }
   },
   {
