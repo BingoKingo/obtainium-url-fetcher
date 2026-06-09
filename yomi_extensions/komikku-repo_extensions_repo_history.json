@@ -1664,22 +1664,6 @@
     }
   },
   {
-    "name": "tachiyomi-all.qtoon-v1.4.1.apk",
-    "path": "apk/tachiyomi-all.qtoon-v1.4.1.apk",
-    "sha": "a1ac8c208c4bc5db56157403dbd5a09db5fe7925",
-    "size": 130037,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.qtoon-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.qtoon-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a1ac8c208c4bc5db56157403dbd5a09db5fe7925",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.qtoon-v1.4.1.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.qtoon-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a1ac8c208c4bc5db56157403dbd5a09db5fe7925",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.qtoon-v1.4.1.apk"
-    }
-  },
-  {
     "name": "tachiyomi-all.rokuhentai-v1.4.1.apk",
     "path": "apk/tachiyomi-all.rokuhentai-v1.4.1.apk",
     "sha": "357ca5a33b113b9afbd1d30c3f18b2f65e18daa7",
@@ -2208,19 +2192,19 @@
     }
   },
   {
-    "name": "tachiyomi-ar.azora-v1.4.66.apk",
-    "path": "apk/tachiyomi-ar.azora-v1.4.66.apk",
-    "sha": "d9e56b310d7f179af7790b19713dcd09b855cf5b",
-    "size": 64913,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.azora-v1.4.66.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.azora-v1.4.66.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/d9e56b310d7f179af7790b19713dcd09b855cf5b",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ar.azora-v1.4.66.apk",
+    "name": "tachiyomi-ar.azora-v1.4.67.apk",
+    "path": "apk/tachiyomi-ar.azora-v1.4.67.apk",
+    "sha": "203f251e1821652e32e4634f69f465327ba42167",
+    "size": 64883,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.azora-v1.4.67.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.azora-v1.4.67.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/203f251e1821652e32e4634f69f465327ba42167",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ar.azora-v1.4.67.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.azora-v1.4.66.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/d9e56b310d7f179af7790b19713dcd09b855cf5b",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.azora-v1.4.66.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.azora-v1.4.67.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/203f251e1821652e32e4634f69f465327ba42167",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.azora-v1.4.67.apk"
     }
   },
   {
@@ -2656,19 +2640,19 @@
     }
   },
   {
-    "name": "tachiyomi-ar.onma-v1.4.15.apk",
-    "path": "apk/tachiyomi-ar.onma-v1.4.15.apk",
-    "sha": "0a7dedc67ad754b1e496cee07604b99d4bea835f",
-    "size": 54781,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.onma-v1.4.15.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.onma-v1.4.15.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/0a7dedc67ad754b1e496cee07604b99d4bea835f",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ar.onma-v1.4.15.apk",
+    "name": "tachiyomi-ar.onma-v1.4.16.apk",
+    "path": "apk/tachiyomi-ar.onma-v1.4.16.apk",
+    "sha": "4f4713d0c2c1715455a47e70c564f3aef703bae2",
+    "size": 55573,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.onma-v1.4.16.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.onma-v1.4.16.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/4f4713d0c2c1715455a47e70c564f3aef703bae2",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ar.onma-v1.4.16.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.onma-v1.4.15.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/0a7dedc67ad754b1e496cee07604b99d4bea835f",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.onma-v1.4.15.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.onma-v1.4.16.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/4f4713d0c2c1715455a47e70c564f3aef703bae2",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.onma-v1.4.16.apk"
     }
   },
   {
@@ -2736,19 +2720,19 @@
     }
   },
   {
-    "name": "tachiyomi-ar.teamx-v1.4.27.apk",
-    "path": "apk/tachiyomi-ar.teamx-v1.4.27.apk",
-    "sha": "2348928d5b3fec64d1aa67b1cdd0896e6ebd6971",
-    "size": 36796,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.teamx-v1.4.27.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.teamx-v1.4.27.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2348928d5b3fec64d1aa67b1cdd0896e6ebd6971",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ar.teamx-v1.4.27.apk",
+    "name": "tachiyomi-ar.teamx-v1.4.28.apk",
+    "path": "apk/tachiyomi-ar.teamx-v1.4.28.apk",
+    "sha": "b042aa9f93e67c96038d068ef32c52a29d3bba67",
+    "size": 36942,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.teamx-v1.4.28.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.teamx-v1.4.28.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b042aa9f93e67c96038d068ef32c52a29d3bba67",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ar.teamx-v1.4.28.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.teamx-v1.4.27.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2348928d5b3fec64d1aa67b1cdd0896e6ebd6971",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.teamx-v1.4.27.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.teamx-v1.4.28.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b042aa9f93e67c96038d068ef32c52a29d3bba67",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.teamx-v1.4.28.apk"
     }
   },
   {
@@ -2832,19 +2816,19 @@
     }
   },
   {
-    "name": "tachiyomi-bg.utsukushii-v1.4.13.apk",
-    "path": "apk/tachiyomi-bg.utsukushii-v1.4.13.apk",
-    "sha": "9e9dfbc347b05484e811f4deb0675b1d0bf37d71",
-    "size": 68811,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-bg.utsukushii-v1.4.13.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-bg.utsukushii-v1.4.13.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9e9dfbc347b05484e811f4deb0675b1d0bf37d71",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-bg.utsukushii-v1.4.13.apk",
+    "name": "tachiyomi-bg.utsukushii-v1.4.14.apk",
+    "path": "apk/tachiyomi-bg.utsukushii-v1.4.14.apk",
+    "sha": "75c661f7d19f9084eccdc3f71a39307b7c4aaa55",
+    "size": 69593,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-bg.utsukushii-v1.4.14.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-bg.utsukushii-v1.4.14.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/75c661f7d19f9084eccdc3f71a39307b7c4aaa55",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-bg.utsukushii-v1.4.14.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-bg.utsukushii-v1.4.13.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9e9dfbc347b05484e811f4deb0675b1d0bf37d71",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-bg.utsukushii-v1.4.13.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-bg.utsukushii-v1.4.14.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/75c661f7d19f9084eccdc3f71a39307b7c4aaa55",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-bg.utsukushii-v1.4.14.apk"
     }
   },
   {
@@ -3088,19 +3072,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.artlapsa-v1.4.24.apk",
-    "path": "apk/tachiyomi-en.artlapsa-v1.4.24.apk",
-    "sha": "37b375868efd7570d3095d434bc30d7fa969e9ee",
-    "size": 61281,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.artlapsa-v1.4.24.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.artlapsa-v1.4.24.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/37b375868efd7570d3095d434bc30d7fa969e9ee",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.artlapsa-v1.4.24.apk",
+    "name": "tachiyomi-en.artlapsa-v1.4.25.apk",
+    "path": "apk/tachiyomi-en.artlapsa-v1.4.25.apk",
+    "sha": "f08654fb26652a1fd51f55cb8d31b3968dbf2360",
+    "size": 61248,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.artlapsa-v1.4.25.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.artlapsa-v1.4.25.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f08654fb26652a1fd51f55cb8d31b3968dbf2360",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.artlapsa-v1.4.25.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.artlapsa-v1.4.24.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/37b375868efd7570d3095d434bc30d7fa969e9ee",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.artlapsa-v1.4.24.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.artlapsa-v1.4.25.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f08654fb26652a1fd51f55cb8d31b3968dbf2360",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.artlapsa-v1.4.25.apk"
     }
   },
   {
@@ -3168,19 +3152,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.asmotoon-v1.4.20.apk",
-    "path": "apk/tachiyomi-en.asmotoon-v1.4.20.apk",
-    "sha": "9908fc5962aa58f4eb9051d2115130b1ce3e8a88",
-    "size": 73779,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.asmotoon-v1.4.20.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.asmotoon-v1.4.20.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9908fc5962aa58f4eb9051d2115130b1ce3e8a88",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.asmotoon-v1.4.20.apk",
+    "name": "tachiyomi-en.asmotoon-v1.4.21.apk",
+    "path": "apk/tachiyomi-en.asmotoon-v1.4.21.apk",
+    "sha": "a2f3afc5f8fa6ae9f92596435c559d4bae3de88a",
+    "size": 73803,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.asmotoon-v1.4.21.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.asmotoon-v1.4.21.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a2f3afc5f8fa6ae9f92596435c559d4bae3de88a",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.asmotoon-v1.4.21.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.asmotoon-v1.4.20.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9908fc5962aa58f4eb9051d2115130b1ce3e8a88",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.asmotoon-v1.4.20.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.asmotoon-v1.4.21.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a2f3afc5f8fa6ae9f92596435c559d4bae3de88a",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.asmotoon-v1.4.21.apk"
     }
   },
   {
@@ -3664,19 +3648,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.comix-v1.4.26.apk",
-    "path": "apk/tachiyomi-en.comix-v1.4.26.apk",
-    "sha": "0fa44b6aaa6b9805375dfd15537711cf878a76e0",
-    "size": 88862,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.26.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.26.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/0fa44b6aaa6b9805375dfd15537711cf878a76e0",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.comix-v1.4.26.apk",
+    "name": "tachiyomi-en.comix-v1.4.27.apk",
+    "path": "apk/tachiyomi-en.comix-v1.4.27.apk",
+    "sha": "603fc9e4ffb15717b87cd168380ec8cdd313c305",
+    "size": 88620,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.27.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.27.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/603fc9e4ffb15717b87cd168380ec8cdd313c305",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.comix-v1.4.27.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.26.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/0fa44b6aaa6b9805375dfd15537711cf878a76e0",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.26.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.27.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/603fc9e4ffb15717b87cd168380ec8cdd313c305",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.27.apk"
     }
   },
   {
@@ -3872,19 +3856,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.divascans-v1.4.22.apk",
-    "path": "apk/tachiyomi-en.divascans-v1.4.22.apk",
-    "sha": "48b6b16eadc68acb93bfe345694e05ac04737cdc",
-    "size": 112810,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.divascans-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.divascans-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/48b6b16eadc68acb93bfe345694e05ac04737cdc",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.divascans-v1.4.22.apk",
+    "name": "tachiyomi-en.divascans-v1.4.23.apk",
+    "path": "apk/tachiyomi-en.divascans-v1.4.23.apk",
+    "sha": "045e2c77e7cbb9c5f74786669494384b81fe124c",
+    "size": 112780,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.divascans-v1.4.23.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.divascans-v1.4.23.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/045e2c77e7cbb9c5f74786669494384b81fe124c",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.divascans-v1.4.23.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.divascans-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/48b6b16eadc68acb93bfe345694e05ac04737cdc",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.divascans-v1.4.22.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.divascans-v1.4.23.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/045e2c77e7cbb9c5f74786669494384b81fe124c",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.divascans-v1.4.23.apk"
     }
   },
   {
@@ -4000,19 +3984,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.eighteenporncomic-v1.4.2.apk",
-    "path": "apk/tachiyomi-en.eighteenporncomic-v1.4.2.apk",
-    "sha": "dc14119cdfa0f98a2a61ea8e2b6bed8c66e1de35",
-    "size": 71924,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.eighteenporncomic-v1.4.2.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.eighteenporncomic-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/dc14119cdfa0f98a2a61ea8e2b6bed8c66e1de35",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.eighteenporncomic-v1.4.2.apk",
+    "name": "tachiyomi-en.eighteenporncomic-v1.4.3.apk",
+    "path": "apk/tachiyomi-en.eighteenporncomic-v1.4.3.apk",
+    "sha": "b88e84d292a76d593f10d8347edb8d26d8a79e56",
+    "size": 71905,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.eighteenporncomic-v1.4.3.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.eighteenporncomic-v1.4.3.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b88e84d292a76d593f10d8347edb8d26d8a79e56",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.eighteenporncomic-v1.4.3.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.eighteenporncomic-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/dc14119cdfa0f98a2a61ea8e2b6bed8c66e1de35",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.eighteenporncomic-v1.4.2.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.eighteenporncomic-v1.4.3.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b88e84d292a76d593f10d8347edb8d26d8a79e56",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.eighteenporncomic-v1.4.3.apk"
     }
   },
   {
@@ -4096,19 +4080,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.erisscans-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.erisscans-v1.4.19.apk",
-    "sha": "65a1977606e75dbbc90276edb3791b362ba87354",
-    "size": 86824,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.erisscans-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.erisscans-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/65a1977606e75dbbc90276edb3791b362ba87354",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.erisscans-v1.4.19.apk",
+    "name": "tachiyomi-en.erisscans-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.erisscans-v1.4.20.apk",
+    "sha": "b797eb8f7d71f4e7db077a41b9e1d8cfe1501d8e",
+    "size": 86920,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.erisscans-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.erisscans-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b797eb8f7d71f4e7db077a41b9e1d8cfe1501d8e",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.erisscans-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.erisscans-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/65a1977606e75dbbc90276edb3791b362ba87354",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.erisscans-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.erisscans-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b797eb8f7d71f4e7db077a41b9e1d8cfe1501d8e",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.erisscans-v1.4.20.apk"
     }
   },
   {
@@ -4448,19 +4432,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.grimscans-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.grimscans-v1.4.19.apk",
-    "sha": "1c0a550d08427e70e7f3a52f357ac244cf7d5d39",
-    "size": 80493,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.grimscans-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.grimscans-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1c0a550d08427e70e7f3a52f357ac244cf7d5d39",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.grimscans-v1.4.19.apk",
+    "name": "tachiyomi-en.grimscans-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.grimscans-v1.4.20.apk",
+    "sha": "bc24f56a7d5504518d2bb15d06ea591dad3b1c38",
+    "size": 80609,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.grimscans-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.grimscans-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bc24f56a7d5504518d2bb15d06ea591dad3b1c38",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.grimscans-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.grimscans-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1c0a550d08427e70e7f3a52f357ac244cf7d5d39",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.grimscans-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.grimscans-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bc24f56a7d5504518d2bb15d06ea591dad3b1c38",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.grimscans-v1.4.20.apk"
     }
   },
   {
@@ -4576,19 +4560,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.hentai3zcc-v1.4.2.apk",
-    "path": "apk/tachiyomi-en.hentai3zcc-v1.4.2.apk",
-    "sha": "ce706a9dab0cb1e54bd662d94ad581080ffa90d2",
-    "size": 112052,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.hentai3zcc-v1.4.2.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.hentai3zcc-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ce706a9dab0cb1e54bd662d94ad581080ffa90d2",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.hentai3zcc-v1.4.2.apk",
+    "name": "tachiyomi-en.hentai3zcc-v1.4.3.apk",
+    "path": "apk/tachiyomi-en.hentai3zcc-v1.4.3.apk",
+    "sha": "c838b5f258c0005423274fae42b2e26bc254c795",
+    "size": 112032,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.hentai3zcc-v1.4.3.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.hentai3zcc-v1.4.3.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c838b5f258c0005423274fae42b2e26bc254c795",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.hentai3zcc-v1.4.3.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.hentai3zcc-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ce706a9dab0cb1e54bd662d94ad581080ffa90d2",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.hentai3zcc-v1.4.2.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.hentai3zcc-v1.4.3.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c838b5f258c0005423274fae42b2e26bc254c795",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.hentai3zcc-v1.4.3.apk"
     }
   },
   {
@@ -4800,19 +4784,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.hijalascans-v1.4.22.apk",
-    "path": "apk/tachiyomi-en.hijalascans-v1.4.22.apk",
-    "sha": "03fc96504f5dac1a1a70ffa2e3ae0f9c0765e614",
-    "size": 79971,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.hijalascans-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.hijalascans-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/03fc96504f5dac1a1a70ffa2e3ae0f9c0765e614",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.hijalascans-v1.4.22.apk",
+    "name": "tachiyomi-en.hijalascans-v1.4.23.apk",
+    "path": "apk/tachiyomi-en.hijalascans-v1.4.23.apk",
+    "sha": "c7d5265d3f7bdc20ea5df6a493d1d0e1b0c3aa3b",
+    "size": 79957,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.hijalascans-v1.4.23.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.hijalascans-v1.4.23.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c7d5265d3f7bdc20ea5df6a493d1d0e1b0c3aa3b",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.hijalascans-v1.4.23.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.hijalascans-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/03fc96504f5dac1a1a70ffa2e3ae0f9c0765e614",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.hijalascans-v1.4.22.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.hijalascans-v1.4.23.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c7d5265d3f7bdc20ea5df6a493d1d0e1b0c3aa3b",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.hijalascans-v1.4.23.apk"
     }
   },
   {
@@ -4912,35 +4896,51 @@
     }
   },
   {
-    "name": "tachiyomi-en.infernalvoidscans-v1.4.64.apk",
-    "path": "apk/tachiyomi-en.infernalvoidscans-v1.4.64.apk",
-    "sha": "6ed7ff0d3696e024eb8d593268311c7088fe6172",
-    "size": 69357,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.infernalvoidscans-v1.4.64.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.infernalvoidscans-v1.4.64.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6ed7ff0d3696e024eb8d593268311c7088fe6172",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.infernalvoidscans-v1.4.64.apk",
+    "name": "tachiyomi-en.imanevilgod-v1.4.7.apk",
+    "path": "apk/tachiyomi-en.imanevilgod-v1.4.7.apk",
+    "sha": "91579bfdfedb0cec7f08ef4991e7e24f18f61a93",
+    "size": 130468,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.imanevilgod-v1.4.7.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.imanevilgod-v1.4.7.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/91579bfdfedb0cec7f08ef4991e7e24f18f61a93",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.imanevilgod-v1.4.7.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.infernalvoidscans-v1.4.64.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6ed7ff0d3696e024eb8d593268311c7088fe6172",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.infernalvoidscans-v1.4.64.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.imanevilgod-v1.4.7.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/91579bfdfedb0cec7f08ef4991e7e24f18f61a93",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.imanevilgod-v1.4.7.apk"
     }
   },
   {
-    "name": "tachiyomi-en.infinityscans-v1.4.8.apk",
-    "path": "apk/tachiyomi-en.infinityscans-v1.4.8.apk",
-    "sha": "e456deb1b834263883b02840084bed5fdbd59624",
-    "size": 66957,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.infinityscans-v1.4.8.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.infinityscans-v1.4.8.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e456deb1b834263883b02840084bed5fdbd59624",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.infinityscans-v1.4.8.apk",
+    "name": "tachiyomi-en.infernalvoidscans-v1.4.65.apk",
+    "path": "apk/tachiyomi-en.infernalvoidscans-v1.4.65.apk",
+    "sha": "cdac87efb5ba09c1e63e6d449f270658a750993f",
+    "size": 69315,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.infernalvoidscans-v1.4.65.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.infernalvoidscans-v1.4.65.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cdac87efb5ba09c1e63e6d449f270658a750993f",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.infernalvoidscans-v1.4.65.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.infinityscans-v1.4.8.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e456deb1b834263883b02840084bed5fdbd59624",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.infinityscans-v1.4.8.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.infernalvoidscans-v1.4.65.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cdac87efb5ba09c1e63e6d449f270658a750993f",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.infernalvoidscans-v1.4.65.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-en.infinityscans-v1.4.9.apk",
+    "path": "apk/tachiyomi-en.infinityscans-v1.4.9.apk",
+    "sha": "7aa961de9c7a1229ba08dcf158f76b830ae94613",
+    "size": 76865,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.infinityscans-v1.4.9.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.infinityscans-v1.4.9.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7aa961de9c7a1229ba08dcf158f76b830ae94613",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.infinityscans-v1.4.9.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.infinityscans-v1.4.9.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7aa961de9c7a1229ba08dcf158f76b830ae94613",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.infinityscans-v1.4.9.apk"
     }
   },
   {
@@ -5008,19 +5008,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.kaizenscan-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.kaizenscan-v1.4.19.apk",
-    "sha": "5bd067925faa2b0b0f575b5f3e6d01dd5a9c60ff",
-    "size": 59091,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kaizenscan-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kaizenscan-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/5bd067925faa2b0b0f575b5f3e6d01dd5a9c60ff",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.kaizenscan-v1.4.19.apk",
+    "name": "tachiyomi-en.kaizenscan-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.kaizenscan-v1.4.20.apk",
+    "sha": "9b8e4996898b7a1018111d6a32835842a96338fb",
+    "size": 59194,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kaizenscan-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kaizenscan-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9b8e4996898b7a1018111d6a32835842a96338fb",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.kaizenscan-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kaizenscan-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/5bd067925faa2b0b0f575b5f3e6d01dd5a9c60ff",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kaizenscan-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kaizenscan-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9b8e4996898b7a1018111d6a32835842a96338fb",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kaizenscan-v1.4.20.apk"
     }
   },
   {
@@ -5056,19 +5056,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.kaynscans-v1.4.20.apk",
-    "path": "apk/tachiyomi-en.kaynscans-v1.4.20.apk",
-    "sha": "cf2e62491e478fbeaadcfde8d0a39d505f8e7727",
-    "size": 60462,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kaynscans-v1.4.20.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kaynscans-v1.4.20.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cf2e62491e478fbeaadcfde8d0a39d505f8e7727",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.kaynscans-v1.4.20.apk",
+    "name": "tachiyomi-en.kaynscans-v1.4.25.apk",
+    "path": "apk/tachiyomi-en.kaynscans-v1.4.25.apk",
+    "sha": "fcf55d2c124369e500eb157331bc11fde5388c3a",
+    "size": 76700,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kaynscans-v1.4.25.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kaynscans-v1.4.25.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/fcf55d2c124369e500eb157331bc11fde5388c3a",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.kaynscans-v1.4.25.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kaynscans-v1.4.20.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cf2e62491e478fbeaadcfde8d0a39d505f8e7727",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kaynscans-v1.4.20.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kaynscans-v1.4.25.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/fcf55d2c124369e500eb157331bc11fde5388c3a",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kaynscans-v1.4.25.apk"
     }
   },
   {
@@ -5088,35 +5088,35 @@
     }
   },
   {
-    "name": "tachiyomi-en.kenscans-v1.4.31.apk",
-    "path": "apk/tachiyomi-en.kenscans-v1.4.31.apk",
-    "sha": "979d2293c68c59736a08e991717c08a40defe56b",
-    "size": 70669,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kenscans-v1.4.31.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kenscans-v1.4.31.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/979d2293c68c59736a08e991717c08a40defe56b",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.kenscans-v1.4.31.apk",
+    "name": "tachiyomi-en.kenscans-v1.4.32.apk",
+    "path": "apk/tachiyomi-en.kenscans-v1.4.32.apk",
+    "sha": "be45322a111f076f3b1ac5faffcea55fc774877c",
+    "size": 70638,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kenscans-v1.4.32.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kenscans-v1.4.32.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/be45322a111f076f3b1ac5faffcea55fc774877c",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.kenscans-v1.4.32.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kenscans-v1.4.31.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/979d2293c68c59736a08e991717c08a40defe56b",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kenscans-v1.4.31.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kenscans-v1.4.32.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/be45322a111f076f3b1ac5faffcea55fc774877c",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kenscans-v1.4.32.apk"
     }
   },
   {
-    "name": "tachiyomi-en.kewnscans-v1.4.20.apk",
-    "path": "apk/tachiyomi-en.kewnscans-v1.4.20.apk",
-    "sha": "21e848c5366a1f1af34ad484318651f446d0880b",
-    "size": 51125,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kewnscans-v1.4.20.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kewnscans-v1.4.20.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/21e848c5366a1f1af34ad484318651f446d0880b",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.kewnscans-v1.4.20.apk",
+    "name": "tachiyomi-en.kewnscans-v1.4.21.apk",
+    "path": "apk/tachiyomi-en.kewnscans-v1.4.21.apk",
+    "sha": "35708b0a1cfbcddeeb8f95018817a48a7b9eec5c",
+    "size": 51226,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kewnscans-v1.4.21.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kewnscans-v1.4.21.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/35708b0a1cfbcddeeb8f95018817a48a7b9eec5c",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.kewnscans-v1.4.21.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kewnscans-v1.4.20.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/21e848c5366a1f1af34ad484318651f446d0880b",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kewnscans-v1.4.20.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kewnscans-v1.4.21.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/35708b0a1cfbcddeeb8f95018817a48a7b9eec5c",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kewnscans-v1.4.21.apk"
     }
   },
   {
@@ -5440,19 +5440,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.lunatoons-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.lunatoons-v1.4.19.apk",
-    "sha": "7782820a105ad4e2576050709ffea2967d381ada",
-    "size": 47070,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.lunatoons-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.lunatoons-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7782820a105ad4e2576050709ffea2967d381ada",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.lunatoons-v1.4.19.apk",
+    "name": "tachiyomi-en.lunatoons-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.lunatoons-v1.4.20.apk",
+    "sha": "90ec991d5d6c14bfa1f8c37528fbc387f11b8255",
+    "size": 47195,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.lunatoons-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.lunatoons-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/90ec991d5d6c14bfa1f8c37528fbc387f11b8255",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.lunatoons-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.lunatoons-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7782820a105ad4e2576050709ffea2967d381ada",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.lunatoons-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.lunatoons-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/90ec991d5d6c14bfa1f8c37528fbc387f11b8255",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.lunatoons-v1.4.20.apk"
     }
   },
   {
@@ -5504,19 +5504,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.magusmanga-v1.4.67.apk",
-    "path": "apk/tachiyomi-en.magusmanga-v1.4.67.apk",
-    "sha": "6d9333f44847bba257c3f0c8c27c85d1f9acde18",
-    "size": 120250,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.magusmanga-v1.4.67.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.magusmanga-v1.4.67.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6d9333f44847bba257c3f0c8c27c85d1f9acde18",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.magusmanga-v1.4.67.apk",
+    "name": "tachiyomi-en.magusmanga-v1.4.68.apk",
+    "path": "apk/tachiyomi-en.magusmanga-v1.4.68.apk",
+    "sha": "1b3a8cdde0001e444d450287d361d42a5852ed97",
+    "size": 120208,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.magusmanga-v1.4.68.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.magusmanga-v1.4.68.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1b3a8cdde0001e444d450287d361d42a5852ed97",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.magusmanga-v1.4.68.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.magusmanga-v1.4.67.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6d9333f44847bba257c3f0c8c27c85d1f9acde18",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.magusmanga-v1.4.67.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.magusmanga-v1.4.68.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1b3a8cdde0001e444d450287d361d42a5852ed97",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.magusmanga-v1.4.68.apk"
     }
   },
   {
@@ -5536,19 +5536,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.manga18club-v1.4.2.apk",
-    "path": "apk/tachiyomi-en.manga18club-v1.4.2.apk",
-    "sha": "a8908dae95ab56dfb49a6431d1dc6bf96a8f5d21",
-    "size": 71904,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manga18club-v1.4.2.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manga18club-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a8908dae95ab56dfb49a6431d1dc6bf96a8f5d21",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.manga18club-v1.4.2.apk",
+    "name": "tachiyomi-en.manga18club-v1.4.3.apk",
+    "path": "apk/tachiyomi-en.manga18club-v1.4.3.apk",
+    "sha": "54e95fb4e30297a10e730dde99ee6186b195fa52",
+    "size": 71889,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manga18club-v1.4.3.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manga18club-v1.4.3.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/54e95fb4e30297a10e730dde99ee6186b195fa52",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.manga18club-v1.4.3.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manga18club-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a8908dae95ab56dfb49a6431d1dc6bf96a8f5d21",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manga18club-v1.4.2.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manga18club-v1.4.3.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/54e95fb4e30297a10e730dde99ee6186b195fa52",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manga18club-v1.4.3.apk"
     }
   },
   {
@@ -5600,19 +5600,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangabat-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.mangabat-v1.4.19.apk",
-    "sha": "f40ab524343cb476f59f9d504a85b6fecd457516",
-    "size": 57883,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangabat-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangabat-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f40ab524343cb476f59f9d504a85b6fecd457516",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mangabat-v1.4.19.apk",
+    "name": "tachiyomi-en.mangabat-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.mangabat-v1.4.20.apk",
+    "sha": "b0fb2db679af142205fc2beafd41b2d9d0eb3789",
+    "size": 57960,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangabat-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangabat-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b0fb2db679af142205fc2beafd41b2d9d0eb3789",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mangabat-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangabat-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f40ab524343cb476f59f9d504a85b6fecd457516",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangabat-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangabat-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b0fb2db679af142205fc2beafd41b2d9d0eb3789",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangabat-v1.4.20.apk"
     }
   },
   {
@@ -5680,19 +5680,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangabuddy-v1.4.28.apk",
-    "path": "apk/tachiyomi-en.mangabuddy-v1.4.28.apk",
-    "sha": "23f31caf329c59b959829d0aa9927de2dce66f8a",
-    "size": 77171,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangabuddy-v1.4.28.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangabuddy-v1.4.28.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/23f31caf329c59b959829d0aa9927de2dce66f8a",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mangabuddy-v1.4.28.apk",
+    "name": "tachiyomi-en.mangabuddy-v1.4.29.apk",
+    "path": "apk/tachiyomi-en.mangabuddy-v1.4.29.apk",
+    "sha": "1b74ce8173bc1e17791353c10b14dbc1e3467f5d",
+    "size": 77298,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangabuddy-v1.4.29.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangabuddy-v1.4.29.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1b74ce8173bc1e17791353c10b14dbc1e3467f5d",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mangabuddy-v1.4.29.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangabuddy-v1.4.28.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/23f31caf329c59b959829d0aa9927de2dce66f8a",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangabuddy-v1.4.28.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangabuddy-v1.4.29.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1b74ce8173bc1e17791353c10b14dbc1e3467f5d",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangabuddy-v1.4.29.apk"
     }
   },
   {
@@ -6096,19 +6096,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangakakalot-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.mangakakalot-v1.4.19.apk",
-    "sha": "887dfd0ca7ae5a5c8936a6ac1fbe0b860243852d",
-    "size": 102554,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangakakalot-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangakakalot-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/887dfd0ca7ae5a5c8936a6ac1fbe0b860243852d",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mangakakalot-v1.4.19.apk",
+    "name": "tachiyomi-en.mangakakalot-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.mangakakalot-v1.4.20.apk",
+    "sha": "29fcea98ec607c5ced7d367d989d36f215a1301d",
+    "size": 102518,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangakakalot-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangakakalot-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/29fcea98ec607c5ced7d367d989d36f215a1301d",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mangakakalot-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangakakalot-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/887dfd0ca7ae5a5c8936a6ac1fbe0b860243852d",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangakakalot-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangakakalot-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/29fcea98ec607c5ced7d367d989d36f215a1301d",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangakakalot-v1.4.20.apk"
     }
   },
   {
@@ -6240,19 +6240,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.manganelo-v1.4.17.apk",
-    "path": "apk/tachiyomi-en.manganelo-v1.4.17.apk",
-    "sha": "496a1956f3a87d201945b58344c5b55ebdc6cc76",
-    "size": 61700,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manganelo-v1.4.17.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manganelo-v1.4.17.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/496a1956f3a87d201945b58344c5b55ebdc6cc76",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.manganelo-v1.4.17.apk",
+    "name": "tachiyomi-en.manganelo-v1.4.18.apk",
+    "path": "apk/tachiyomi-en.manganelo-v1.4.18.apk",
+    "sha": "38c0168bb68af7df64e65b1b5315917e9a7e19ea",
+    "size": 61782,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manganelo-v1.4.18.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manganelo-v1.4.18.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/38c0168bb68af7df64e65b1b5315917e9a7e19ea",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.manganelo-v1.4.18.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manganelo-v1.4.17.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/496a1956f3a87d201945b58344c5b55ebdc6cc76",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manganelo-v1.4.17.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manganelo-v1.4.18.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/38c0168bb68af7df64e65b1b5315917e9a7e19ea",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manganelo-v1.4.18.apk"
     }
   },
   {
@@ -6368,19 +6368,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangareadercc-v1.4.5.apk",
-    "path": "apk/tachiyomi-en.mangareadercc-v1.4.5.apk",
-    "sha": "15150862cbe806cab4008dd6943d73d3510f135b",
-    "size": 78863,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangareadercc-v1.4.5.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangareadercc-v1.4.5.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/15150862cbe806cab4008dd6943d73d3510f135b",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mangareadercc-v1.4.5.apk",
+    "name": "tachiyomi-en.mangareadercc-v1.4.6.apk",
+    "path": "apk/tachiyomi-en.mangareadercc-v1.4.6.apk",
+    "sha": "1b195ebce2086d720c671a53d748def19a90bea5",
+    "size": 80249,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangareadercc-v1.4.6.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangareadercc-v1.4.6.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1b195ebce2086d720c671a53d748def19a90bea5",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mangareadercc-v1.4.6.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangareadercc-v1.4.5.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/15150862cbe806cab4008dd6943d73d3510f135b",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangareadercc-v1.4.5.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangareadercc-v1.4.6.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1b195ebce2086d720c671a53d748def19a90bea5",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangareadercc-v1.4.6.apk"
     }
   },
   {
@@ -6592,35 +6592,35 @@
     }
   },
   {
-    "name": "tachiyomi-en.manhuaplusorg-v1.4.4.apk",
-    "path": "apk/tachiyomi-en.manhuaplusorg-v1.4.4.apk",
-    "sha": "190c7404b7af51750d2b55512f71775d7516a108",
-    "size": 45995,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manhuaplusorg-v1.4.4.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manhuaplusorg-v1.4.4.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/190c7404b7af51750d2b55512f71775d7516a108",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.manhuaplusorg-v1.4.4.apk",
+    "name": "tachiyomi-en.manhuaplusorg-v1.4.5.apk",
+    "path": "apk/tachiyomi-en.manhuaplusorg-v1.4.5.apk",
+    "sha": "cabb0f200d66f145aaf8cc9c94066f7a6a18adc1",
+    "size": 46011,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manhuaplusorg-v1.4.5.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manhuaplusorg-v1.4.5.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cabb0f200d66f145aaf8cc9c94066f7a6a18adc1",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.manhuaplusorg-v1.4.5.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manhuaplusorg-v1.4.4.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/190c7404b7af51750d2b55512f71775d7516a108",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manhuaplusorg-v1.4.4.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manhuaplusorg-v1.4.5.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cabb0f200d66f145aaf8cc9c94066f7a6a18adc1",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manhuaplusorg-v1.4.5.apk"
     }
   },
   {
-    "name": "tachiyomi-en.manhuarush-v1.4.1.apk",
-    "path": "apk/tachiyomi-en.manhuarush-v1.4.1.apk",
-    "sha": "1230984d494c7e8189f32fbf65a09f6d965cd405",
-    "size": 75658,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manhuarush-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manhuarush-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1230984d494c7e8189f32fbf65a09f6d965cd405",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.manhuarush-v1.4.1.apk",
+    "name": "tachiyomi-en.manhuarush-v1.4.2.apk",
+    "path": "apk/tachiyomi-en.manhuarush-v1.4.2.apk",
+    "sha": "09f36c6b6d0b2e09ae3cc8cc0d209dcf28f088f4",
+    "size": 75601,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manhuarush-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manhuarush-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/09f36c6b6d0b2e09ae3cc8cc0d209dcf28f088f4",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.manhuarush-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manhuarush-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1230984d494c7e8189f32fbf65a09f6d965cd405",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manhuarush-v1.4.1.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manhuarush-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/09f36c6b6d0b2e09ae3cc8cc0d209dcf28f088f4",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manhuarush-v1.4.2.apk"
     }
   },
   {
@@ -7072,19 +7072,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.meitoon-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.meitoon-v1.4.19.apk",
-    "sha": "7e352bca2aada327abd3c44c4792e3c13b024ee6",
-    "size": 46593,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.meitoon-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.meitoon-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7e352bca2aada327abd3c44c4792e3c13b024ee6",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.meitoon-v1.4.19.apk",
+    "name": "tachiyomi-en.meitoon-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.meitoon-v1.4.20.apk",
+    "sha": "ae41575cf6f5a61bbc137cc7c69236372635e809",
+    "size": 46687,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.meitoon-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.meitoon-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ae41575cf6f5a61bbc137cc7c69236372635e809",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.meitoon-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.meitoon-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7e352bca2aada327abd3c44c4792e3c13b024ee6",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.meitoon-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.meitoon-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ae41575cf6f5a61bbc137cc7c69236372635e809",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.meitoon-v1.4.20.apk"
     }
   },
   {
@@ -7120,19 +7120,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mistscans-v1.4.20.apk",
-    "path": "apk/tachiyomi-en.mistscans-v1.4.20.apk",
-    "sha": "11e7a866d2cee221a9b3281aacd01cd19ccb24d1",
-    "size": 83521,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mistscans-v1.4.20.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mistscans-v1.4.20.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/11e7a866d2cee221a9b3281aacd01cd19ccb24d1",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mistscans-v1.4.20.apk",
+    "name": "tachiyomi-en.mistscans-v1.4.21.apk",
+    "path": "apk/tachiyomi-en.mistscans-v1.4.21.apk",
+    "sha": "8e2973263453bc47395668a09ea2eed62a21d5be",
+    "size": 83600,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mistscans-v1.4.21.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mistscans-v1.4.21.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/8e2973263453bc47395668a09ea2eed62a21d5be",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mistscans-v1.4.21.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mistscans-v1.4.20.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/11e7a866d2cee221a9b3281aacd01cd19ccb24d1",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mistscans-v1.4.20.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mistscans-v1.4.21.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/8e2973263453bc47395668a09ea2eed62a21d5be",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mistscans-v1.4.21.apk"
     }
   },
   {
@@ -7248,19 +7248,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.necroscans-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.necroscans-v1.4.19.apk",
-    "sha": "30ccd1b41a192d996a1703f7bfaada0b160de248",
-    "size": 75413,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.necroscans-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.necroscans-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/30ccd1b41a192d996a1703f7bfaada0b160de248",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.necroscans-v1.4.19.apk",
+    "name": "tachiyomi-en.necroscans-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.necroscans-v1.4.20.apk",
+    "sha": "25bc4290f5b7b38bd988b1e13e4da58d40407d55",
+    "size": 75511,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.necroscans-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.necroscans-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/25bc4290f5b7b38bd988b1e13e4da58d40407d55",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.necroscans-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.necroscans-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/30ccd1b41a192d996a1703f7bfaada0b160de248",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.necroscans-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.necroscans-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/25bc4290f5b7b38bd988b1e13e4da58d40407d55",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.necroscans-v1.4.20.apk"
     }
   },
   {
@@ -7440,51 +7440,51 @@
     }
   },
   {
-    "name": "tachiyomi-en.nyanukafe-v1.4.20.apk",
-    "path": "apk/tachiyomi-en.nyanukafe-v1.4.20.apk",
-    "sha": "1686fcac46930c00bf64f11a0f59dfb7d952715b",
-    "size": 45530,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.nyanukafe-v1.4.20.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.nyanukafe-v1.4.20.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1686fcac46930c00bf64f11a0f59dfb7d952715b",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.nyanukafe-v1.4.20.apk",
+    "name": "tachiyomi-en.nyanukafe-v1.4.21.apk",
+    "path": "apk/tachiyomi-en.nyanukafe-v1.4.21.apk",
+    "sha": "0c78c0c1e92d8c883949a0d3195ac2c140faaca0",
+    "size": 45612,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.nyanukafe-v1.4.21.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.nyanukafe-v1.4.21.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/0c78c0c1e92d8c883949a0d3195ac2c140faaca0",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.nyanukafe-v1.4.21.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.nyanukafe-v1.4.20.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1686fcac46930c00bf64f11a0f59dfb7d952715b",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.nyanukafe-v1.4.20.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.nyanukafe-v1.4.21.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/0c78c0c1e92d8c883949a0d3195ac2c140faaca0",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.nyanukafe-v1.4.21.apk"
     }
   },
   {
-    "name": "tachiyomi-en.nyrascans-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.nyrascans-v1.4.19.apk",
-    "sha": "e0a99da3a80a660e847ae91bfd0f7bac6a7e878e",
-    "size": 126604,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.nyrascans-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.nyrascans-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e0a99da3a80a660e847ae91bfd0f7bac6a7e878e",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.nyrascans-v1.4.19.apk",
+    "name": "tachiyomi-en.nyrascans-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.nyrascans-v1.4.20.apk",
+    "sha": "8e73325a4b5b4b698d00bf3ce639b57ca65caf6a",
+    "size": 126710,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.nyrascans-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.nyrascans-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/8e73325a4b5b4b698d00bf3ce639b57ca65caf6a",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.nyrascans-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.nyrascans-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e0a99da3a80a660e847ae91bfd0f7bac6a7e878e",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.nyrascans-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.nyrascans-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/8e73325a4b5b4b698d00bf3ce639b57ca65caf6a",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.nyrascans-v1.4.20.apk"
     }
   },
   {
-    "name": "tachiyomi-en.nyxscans-v1.4.25.apk",
-    "path": "apk/tachiyomi-en.nyxscans-v1.4.25.apk",
-    "sha": "08c2cbd1336521b714c60304921f45432bb38030",
-    "size": 93289,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.nyxscans-v1.4.25.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.nyxscans-v1.4.25.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/08c2cbd1336521b714c60304921f45432bb38030",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.nyxscans-v1.4.25.apk",
+    "name": "tachiyomi-en.nyxscans-v1.4.26.apk",
+    "path": "apk/tachiyomi-en.nyxscans-v1.4.26.apk",
+    "sha": "70bbeb0db09cdafed462583c515c28b8299e0b5d",
+    "size": 93272,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.nyxscans-v1.4.26.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.nyxscans-v1.4.26.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/70bbeb0db09cdafed462583c515c28b8299e0b5d",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.nyxscans-v1.4.26.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.nyxscans-v1.4.25.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/08c2cbd1336521b714c60304921f45432bb38030",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.nyxscans-v1.4.25.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.nyxscans-v1.4.26.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/70bbeb0db09cdafed462583c515c28b8299e0b5d",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.nyxscans-v1.4.26.apk"
     }
   },
   {
@@ -7664,35 +7664,35 @@
     }
   },
   {
-    "name": "tachiyomi-en.orionscans-v1.4.22.apk",
-    "path": "apk/tachiyomi-en.orionscans-v1.4.22.apk",
-    "sha": "bc63712a35c1b8b4fe610136b560f66f6d8c1b9d",
-    "size": 118108,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.orionscans-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.orionscans-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bc63712a35c1b8b4fe610136b560f66f6d8c1b9d",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.orionscans-v1.4.22.apk",
+    "name": "tachiyomi-en.orionscans-v1.4.23.apk",
+    "path": "apk/tachiyomi-en.orionscans-v1.4.23.apk",
+    "sha": "6cc149272ded9e7add41fb8b2c406fe3a2419bed",
+    "size": 118085,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.orionscans-v1.4.23.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.orionscans-v1.4.23.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6cc149272ded9e7add41fb8b2c406fe3a2419bed",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.orionscans-v1.4.23.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.orionscans-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bc63712a35c1b8b4fe610136b560f66f6d8c1b9d",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.orionscans-v1.4.22.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.orionscans-v1.4.23.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6cc149272ded9e7add41fb8b2c406fe3a2419bed",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.orionscans-v1.4.23.apk"
     }
   },
   {
-    "name": "tachiyomi-en.paradisescans-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.paradisescans-v1.4.19.apk",
-    "sha": "e1644a01042661760f6c1db2152891d7da6fba59",
-    "size": 78542,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.paradisescans-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.paradisescans-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e1644a01042661760f6c1db2152891d7da6fba59",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.paradisescans-v1.4.19.apk",
+    "name": "tachiyomi-en.paradisescans-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.paradisescans-v1.4.20.apk",
+    "sha": "bdfd34a61f07529b7f20738a82aad3817cc18323",
+    "size": 78666,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.paradisescans-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.paradisescans-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bdfd34a61f07529b7f20738a82aad3817cc18323",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.paradisescans-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.paradisescans-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e1644a01042661760f6c1db2152891d7da6fba59",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.paradisescans-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.paradisescans-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bdfd34a61f07529b7f20738a82aad3817cc18323",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.paradisescans-v1.4.20.apk"
     }
   },
   {
@@ -7952,83 +7952,83 @@
     }
   },
   {
-    "name": "tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.12.apk",
-    "path": "apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.12.apk",
-    "sha": "80417bd1be677fa91c0019fe079893c5af4e46ed",
-    "size": 81123,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.12.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.12.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/80417bd1be677fa91c0019fe079893c5af4e46ed",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.12.apk",
+    "name": "tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.13.apk",
+    "path": "apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.13.apk",
+    "sha": "1af93883b1567227c0b53e5aa75c13d3f90a2a84",
+    "size": 80988,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.13.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.13.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1af93883b1567227c0b53e5aa75c13d3f90a2a84",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.13.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.12.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/80417bd1be677fa91c0019fe079893c5af4e46ed",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.12.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.13.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1af93883b1567227c0b53e5aa75c13d3f90a2a84",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.13.apk"
     }
   },
   {
-    "name": "tachiyomi-en.readberserkmanga-v1.4.7.apk",
-    "path": "apk/tachiyomi-en.readberserkmanga-v1.4.7.apk",
-    "sha": "f9efb50eca976bca7cebecc421fe9e8d29241ad8",
-    "size": 24946,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readberserkmanga-v1.4.7.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readberserkmanga-v1.4.7.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f9efb50eca976bca7cebecc421fe9e8d29241ad8",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readberserkmanga-v1.4.7.apk",
+    "name": "tachiyomi-en.readberserkmanga-v1.4.8.apk",
+    "path": "apk/tachiyomi-en.readberserkmanga-v1.4.8.apk",
+    "sha": "9684e6f16d855fb01ccc827bda9b9e7e6f03c733",
+    "size": 24879,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readberserkmanga-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readberserkmanga-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9684e6f16d855fb01ccc827bda9b9e7e6f03c733",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readberserkmanga-v1.4.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readberserkmanga-v1.4.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f9efb50eca976bca7cebecc421fe9e8d29241ad8",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readberserkmanga-v1.4.7.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readberserkmanga-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9684e6f16d855fb01ccc827bda9b9e7e6f03c733",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readberserkmanga-v1.4.8.apk"
     }
   },
   {
-    "name": "tachiyomi-en.readblackclovermangaonline-v1.4.7.apk",
-    "path": "apk/tachiyomi-en.readblackclovermangaonline-v1.4.7.apk",
-    "sha": "aa80a41612168a04d1d12ebe26e29ff601a1f23b",
-    "size": 24557,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readblackclovermangaonline-v1.4.7.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readblackclovermangaonline-v1.4.7.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/aa80a41612168a04d1d12ebe26e29ff601a1f23b",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readblackclovermangaonline-v1.4.7.apk",
+    "name": "tachiyomi-en.readblackclovermangaonline-v1.4.8.apk",
+    "path": "apk/tachiyomi-en.readblackclovermangaonline-v1.4.8.apk",
+    "sha": "d5b416e6bb3651ebe5249b9530a1d4faa9786478",
+    "size": 24477,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readblackclovermangaonline-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readblackclovermangaonline-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/d5b416e6bb3651ebe5249b9530a1d4faa9786478",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readblackclovermangaonline-v1.4.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readblackclovermangaonline-v1.4.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/aa80a41612168a04d1d12ebe26e29ff601a1f23b",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readblackclovermangaonline-v1.4.7.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readblackclovermangaonline-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/d5b416e6bb3651ebe5249b9530a1d4faa9786478",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readblackclovermangaonline-v1.4.8.apk"
     }
   },
   {
-    "name": "tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.9.apk",
-    "path": "apk/tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.9.apk",
-    "sha": "23618186db7f6fa987a421b1faa9896a2528edd2",
-    "size": 32367,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.9.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.9.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/23618186db7f6fa987a421b1faa9896a2528edd2",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.9.apk",
+    "name": "tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.10.apk",
+    "path": "apk/tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.10.apk",
+    "sha": "4cf94366220908970390574fcba0556b54c0b6cc",
+    "size": 32308,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.10.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.10.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/4cf94366220908970390574fcba0556b54c0b6cc",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.10.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.9.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/23618186db7f6fa987a421b1faa9896a2528edd2",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.9.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.10.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/4cf94366220908970390574fcba0556b54c0b6cc",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.10.apk"
     }
   },
   {
-    "name": "tachiyomi-en.readchainsawmanmangaonline-v1.4.8.apk",
-    "path": "apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.8.apk",
-    "sha": "a4eca69876d0ce4c835c1cee9c97e0a30dfbe28d",
-    "size": 25005,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.8.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.8.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a4eca69876d0ce4c835c1cee9c97e0a30dfbe28d",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.8.apk",
+    "name": "tachiyomi-en.readchainsawmanmangaonline-v1.4.9.apk",
+    "path": "apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.9.apk",
+    "sha": "466c5a092c59763f29fd603a017c3d834cad8fe4",
+    "size": 24938,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.9.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.9.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/466c5a092c59763f29fd603a017c3d834cad8fe4",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.9.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.8.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a4eca69876d0ce4c835c1cee9c97e0a30dfbe28d",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.8.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.9.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/466c5a092c59763f29fd603a017c3d834cad8fe4",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.9.apk"
     }
   },
   {
@@ -8048,163 +8048,163 @@
     }
   },
   {
-    "name": "tachiyomi-en.readcomicsonline-v1.4.12.apk",
-    "path": "apk/tachiyomi-en.readcomicsonline-v1.4.12.apk",
-    "sha": "a33024e615fd9a9cc862fb6c07a9fa41d49e63c7",
-    "size": 41773,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readcomicsonline-v1.4.12.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readcomicsonline-v1.4.12.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a33024e615fd9a9cc862fb6c07a9fa41d49e63c7",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readcomicsonline-v1.4.12.apk",
+    "name": "tachiyomi-en.readcomicsonline-v1.4.13.apk",
+    "path": "apk/tachiyomi-en.readcomicsonline-v1.4.13.apk",
+    "sha": "f07bc92358310419d55f9ba7c186876f11e0a97d",
+    "size": 42586,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readcomicsonline-v1.4.13.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readcomicsonline-v1.4.13.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f07bc92358310419d55f9ba7c186876f11e0a97d",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readcomicsonline-v1.4.13.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readcomicsonline-v1.4.12.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a33024e615fd9a9cc862fb6c07a9fa41d49e63c7",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readcomicsonline-v1.4.12.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readcomicsonline-v1.4.13.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f07bc92358310419d55f9ba7c186876f11e0a97d",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readcomicsonline-v1.4.13.apk"
     }
   },
   {
-    "name": "tachiyomi-en.readfairytailedenszeromangaonline-v1.4.8.apk",
-    "path": "apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.8.apk",
-    "sha": "1fefaa7e60f5f8d4ee9fca87e860d985c8561353",
-    "size": 25392,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.8.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.8.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1fefaa7e60f5f8d4ee9fca87e860d985c8561353",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.8.apk",
+    "name": "tachiyomi-en.readfairytailedenszeromangaonline-v1.4.9.apk",
+    "path": "apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.9.apk",
+    "sha": "df487d5bc02a7fb617b2a16e02d24d28881ce8d9",
+    "size": 25331,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.9.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.9.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/df487d5bc02a7fb617b2a16e02d24d28881ce8d9",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.9.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.8.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1fefaa7e60f5f8d4ee9fca87e860d985c8561353",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.8.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.9.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/df487d5bc02a7fb617b2a16e02d24d28881ce8d9",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.9.apk"
     }
   },
   {
-    "name": "tachiyomi-en.readjujutsukaisenmangaonline-v1.4.8.apk",
-    "path": "apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.8.apk",
-    "sha": "ea26d4318b479a95218c669783a1381a516b98e6",
-    "size": 89304,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.8.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.8.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ea26d4318b479a95218c669783a1381a516b98e6",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.8.apk",
+    "name": "tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk",
+    "path": "apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk",
+    "sha": "e04648c8e800a89a4a1d39b7f47a4645a746184a",
+    "size": 89248,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e04648c8e800a89a4a1d39b7f47a4645a746184a",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.8.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ea26d4318b479a95218c669783a1381a516b98e6",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.8.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e04648c8e800a89a4a1d39b7f47a4645a746184a",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk"
     }
   },
   {
-    "name": "tachiyomi-en.readkingdommangaonline-v1.4.7.apk",
-    "path": "apk/tachiyomi-en.readkingdommangaonline-v1.4.7.apk",
-    "sha": "3be83eaae990cdfada56bae2c3a2a8e2c78e839a",
-    "size": 24498,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readkingdommangaonline-v1.4.7.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readkingdommangaonline-v1.4.7.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/3be83eaae990cdfada56bae2c3a2a8e2c78e839a",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readkingdommangaonline-v1.4.7.apk",
+    "name": "tachiyomi-en.readkingdommangaonline-v1.4.8.apk",
+    "path": "apk/tachiyomi-en.readkingdommangaonline-v1.4.8.apk",
+    "sha": "ac1f50b63f65d904c1d2021f2657d6139e1496e3",
+    "size": 24418,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readkingdommangaonline-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readkingdommangaonline-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ac1f50b63f65d904c1d2021f2657d6139e1496e3",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readkingdommangaonline-v1.4.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readkingdommangaonline-v1.4.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/3be83eaae990cdfada56bae2c3a2a8e2c78e839a",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readkingdommangaonline-v1.4.7.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readkingdommangaonline-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ac1f50b63f65d904c1d2021f2657d6139e1496e3",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readkingdommangaonline-v1.4.8.apk"
     }
   },
   {
-    "name": "tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.9.apk",
-    "path": "apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.9.apk",
-    "sha": "9764a9d413d147228f8b5b30936d62d9cad2d732",
-    "size": 41932,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.9.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.9.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9764a9d413d147228f8b5b30936d62d9cad2d732",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.9.apk",
+    "name": "tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.10.apk",
+    "path": "apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.10.apk",
+    "sha": "e4dc2b8db2540fb3ce5958b1889719891bb5ff43",
+    "size": 41870,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.10.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.10.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e4dc2b8db2540fb3ce5958b1889719891bb5ff43",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.10.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.9.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9764a9d413d147228f8b5b30936d62d9cad2d732",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.9.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.10.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e4dc2b8db2540fb3ce5958b1889719891bb5ff43",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.10.apk"
     }
   },
   {
-    "name": "tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.8.apk",
-    "path": "apk/tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.8.apk",
-    "sha": "a3d617bd00951ff690cccb2083cccc267b05a099",
-    "size": 24962,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.8.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.8.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a3d617bd00951ff690cccb2083cccc267b05a099",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.8.apk",
+    "name": "tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.9.apk",
+    "path": "apk/tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.9.apk",
+    "sha": "f3355e894edb45b699ae3866ae7846ccd13f4287",
+    "size": 24904,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.9.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.9.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f3355e894edb45b699ae3866ae7846ccd13f4287",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.9.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.8.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a3d617bd00951ff690cccb2083cccc267b05a099",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.8.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.9.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f3355e894edb45b699ae3866ae7846ccd13f4287",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.9.apk"
     }
   },
   {
-    "name": "tachiyomi-en.readonepiecemangaonline-v1.4.7.apk",
-    "path": "apk/tachiyomi-en.readonepiecemangaonline-v1.4.7.apk",
-    "sha": "3d55c0f8af3cd3fa0f97ee1802b92c394b602874",
-    "size": 25292,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readonepiecemangaonline-v1.4.7.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readonepiecemangaonline-v1.4.7.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/3d55c0f8af3cd3fa0f97ee1802b92c394b602874",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readonepiecemangaonline-v1.4.7.apk",
+    "name": "tachiyomi-en.readonepiecemangaonline-v1.4.8.apk",
+    "path": "apk/tachiyomi-en.readonepiecemangaonline-v1.4.8.apk",
+    "sha": "7265a2ae419bbac6501e8263e4fe5cbb3b779973",
+    "size": 25236,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readonepiecemangaonline-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readonepiecemangaonline-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7265a2ae419bbac6501e8263e4fe5cbb3b779973",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readonepiecemangaonline-v1.4.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readonepiecemangaonline-v1.4.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/3d55c0f8af3cd3fa0f97ee1802b92c394b602874",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readonepiecemangaonline-v1.4.7.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readonepiecemangaonline-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7265a2ae419bbac6501e8263e4fe5cbb3b779973",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readonepiecemangaonline-v1.4.8.apk"
     }
   },
   {
-    "name": "tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.7.apk",
-    "path": "apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.7.apk",
-    "sha": "b61b3a5033ec55a7656ee278a9cc79b85e27c6c0",
-    "size": 52557,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.7.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.7.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b61b3a5033ec55a7656ee278a9cc79b85e27c6c0",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.7.apk",
+    "name": "tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.8.apk",
+    "path": "apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.8.apk",
+    "sha": "cdf210db80a07fa65d5cea816b0fb0cfd9d20f12",
+    "size": 52490,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cdf210db80a07fa65d5cea816b0fb0cfd9d20f12",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b61b3a5033ec55a7656ee278a9cc79b85e27c6c0",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.7.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cdf210db80a07fa65d5cea816b0fb0cfd9d20f12",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.8.apk"
     }
   },
   {
-    "name": "tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.9.apk",
-    "path": "apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.9.apk",
-    "sha": "502c47bc4294b9983f3a11e29b8a0e8b2eeed9e9",
-    "size": 134319,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.9.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.9.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/502c47bc4294b9983f3a11e29b8a0e8b2eeed9e9",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.9.apk",
+    "name": "tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.10.apk",
+    "path": "apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.10.apk",
+    "sha": "fbb15924c8ea33c637abe3437faa760414322ba6",
+    "size": 134258,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.10.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.10.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/fbb15924c8ea33c637abe3437faa760414322ba6",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.10.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.9.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/502c47bc4294b9983f3a11e29b8a0e8b2eeed9e9",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.9.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.10.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/fbb15924c8ea33c637abe3437faa760414322ba6",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.10.apk"
     }
   },
   {
-    "name": "tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.10.apk",
-    "path": "apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.10.apk",
-    "sha": "f785cbdee2c16b6c95f0b38e5ac5ed112f4f8003",
-    "size": 100235,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.10.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.10.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f785cbdee2c16b6c95f0b38e5ac5ed112f4f8003",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.10.apk",
+    "name": "tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.11.apk",
+    "path": "apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.11.apk",
+    "sha": "d7f2154b3416ccc776ec0adbef2d3852141f9bdf",
+    "size": 100162,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.11.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.11.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/d7f2154b3416ccc776ec0adbef2d3852141f9bdf",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.11.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.10.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f785cbdee2c16b6c95f0b38e5ac5ed112f4f8003",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.10.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.11.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/d7f2154b3416ccc776ec0adbef2d3852141f9bdf",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.11.apk"
     }
   },
   {
@@ -8256,19 +8256,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.renascans-v1.4.22.apk",
-    "path": "apk/tachiyomi-en.renascans-v1.4.22.apk",
-    "sha": "2a65766d7f831b178dcf5d58ee26906fca5fb438",
-    "size": 80570,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.renascans-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.renascans-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2a65766d7f831b178dcf5d58ee26906fca5fb438",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.renascans-v1.4.22.apk",
+    "name": "tachiyomi-en.renascans-v1.4.23.apk",
+    "path": "apk/tachiyomi-en.renascans-v1.4.23.apk",
+    "sha": "fdbbce3a92ce2550c8bcb0cc8fb48d8050a60d06",
+    "size": 80566,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.renascans-v1.4.23.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.renascans-v1.4.23.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/fdbbce3a92ce2550c8bcb0cc8fb48d8050a60d06",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.renascans-v1.4.23.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.renascans-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2a65766d7f831b178dcf5d58ee26906fca5fb438",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.renascans-v1.4.22.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.renascans-v1.4.23.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/fdbbce3a92ce2550c8bcb0cc8fb48d8050a60d06",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.renascans-v1.4.23.apk"
     }
   },
   {
@@ -8336,19 +8336,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.ritharscans-v1.4.22.apk",
-    "path": "apk/tachiyomi-en.ritharscans-v1.4.22.apk",
-    "sha": "6a33967166371947497e37a3fd89d16e9e01f436",
-    "size": 93012,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.ritharscans-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.ritharscans-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6a33967166371947497e37a3fd89d16e9e01f436",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.ritharscans-v1.4.22.apk",
+    "name": "tachiyomi-en.ritharscans-v1.4.23.apk",
+    "path": "apk/tachiyomi-en.ritharscans-v1.4.23.apk",
+    "sha": "c1ce3df48c742652f711cce38bb9d6ded79d1e07",
+    "size": 92977,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.ritharscans-v1.4.23.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.ritharscans-v1.4.23.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c1ce3df48c742652f711cce38bb9d6ded79d1e07",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.ritharscans-v1.4.23.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.ritharscans-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6a33967166371947497e37a3fd89d16e9e01f436",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.ritharscans-v1.4.22.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.ritharscans-v1.4.23.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c1ce3df48c742652f711cce38bb9d6ded79d1e07",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.ritharscans-v1.4.23.apk"
     }
   },
   {
@@ -8432,19 +8432,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.ryumanga-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.ryumanga-v1.4.19.apk",
-    "sha": "c1be30473110d29c8af99358a076bc6750fcbcd1",
-    "size": 53899,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.ryumanga-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.ryumanga-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c1be30473110d29c8af99358a076bc6750fcbcd1",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.ryumanga-v1.4.19.apk",
+    "name": "tachiyomi-en.ryumanga-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.ryumanga-v1.4.20.apk",
+    "sha": "4064ae85bc55190a6807ce9ad56a9ecb192ccffe",
+    "size": 54018,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.ryumanga-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.ryumanga-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/4064ae85bc55190a6807ce9ad56a9ecb192ccffe",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.ryumanga-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.ryumanga-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c1be30473110d29c8af99358a076bc6750fcbcd1",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.ryumanga-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.ryumanga-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/4064ae85bc55190a6807ce9ad56a9ecb192ccffe",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.ryumanga-v1.4.20.apk"
     }
   },
   {
@@ -8464,19 +8464,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.sanascans-v1.4.22.apk",
-    "path": "apk/tachiyomi-en.sanascans-v1.4.22.apk",
-    "sha": "7839d199bf9f9f747664dbf3fb532376dc485980",
-    "size": 88035,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.sanascans-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.sanascans-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7839d199bf9f9f747664dbf3fb532376dc485980",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.sanascans-v1.4.22.apk",
+    "name": "tachiyomi-en.sanascans-v1.4.23.apk",
+    "path": "apk/tachiyomi-en.sanascans-v1.4.23.apk",
+    "sha": "ae925cf4ff0c08ed55812954179a94cbc6572162",
+    "size": 87995,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.sanascans-v1.4.23.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.sanascans-v1.4.23.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ae925cf4ff0c08ed55812954179a94cbc6572162",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.sanascans-v1.4.23.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.sanascans-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7839d199bf9f9f747664dbf3fb532376dc485980",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.sanascans-v1.4.22.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.sanascans-v1.4.23.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ae925cf4ff0c08ed55812954179a94cbc6572162",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.sanascans-v1.4.23.apk"
     }
   },
   {
@@ -8576,19 +8576,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.sirenscans-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.sirenscans-v1.4.19.apk",
-    "sha": "063c3abe4b4e480e8731bdf3e68fc5d526d9f4d3",
-    "size": 131218,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.sirenscans-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.sirenscans-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/063c3abe4b4e480e8731bdf3e68fc5d526d9f4d3",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.sirenscans-v1.4.19.apk",
+    "name": "tachiyomi-en.sirenscans-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.sirenscans-v1.4.20.apk",
+    "sha": "e7e9b8831f0f1e7cc4894d09a2688c377dacb953",
+    "size": 131320,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.sirenscans-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.sirenscans-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e7e9b8831f0f1e7cc4894d09a2688c377dacb953",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.sirenscans-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.sirenscans-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/063c3abe4b4e480e8731bdf3e68fc5d526d9f4d3",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.sirenscans-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.sirenscans-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e7e9b8831f0f1e7cc4894d09a2688c377dacb953",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.sirenscans-v1.4.20.apk"
     }
   },
   {
@@ -8720,19 +8720,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.suryascans-v1.4.51.apk",
-    "path": "apk/tachiyomi-en.suryascans-v1.4.51.apk",
-    "sha": "1c7ef81547e0d78889aba34a6114da697fbe3e35",
-    "size": 63510,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.suryascans-v1.4.51.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.suryascans-v1.4.51.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1c7ef81547e0d78889aba34a6114da697fbe3e35",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.suryascans-v1.4.51.apk",
+    "name": "tachiyomi-en.suryascans-v1.4.52.apk",
+    "path": "apk/tachiyomi-en.suryascans-v1.4.52.apk",
+    "sha": "e69761192f767dcb7a4b6b11c57b5645b93a52cc",
+    "size": 63620,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.suryascans-v1.4.52.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.suryascans-v1.4.52.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e69761192f767dcb7a4b6b11c57b5645b93a52cc",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.suryascans-v1.4.52.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.suryascans-v1.4.51.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1c7ef81547e0d78889aba34a6114da697fbe3e35",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.suryascans-v1.4.51.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.suryascans-v1.4.52.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e69761192f767dcb7a4b6b11c57b5645b93a52cc",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.suryascans-v1.4.52.apk"
     }
   },
   {
@@ -8832,19 +8832,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.theblank-v1.4.54.apk",
-    "path": "apk/tachiyomi-en.theblank-v1.4.54.apk",
-    "sha": "b1871d0ed3e44228d0db3acd50e4fbda3dfd8319",
-    "size": 77118,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.theblank-v1.4.54.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.theblank-v1.4.54.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b1871d0ed3e44228d0db3acd50e4fbda3dfd8319",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.theblank-v1.4.54.apk",
+    "name": "tachiyomi-en.theblank-v1.4.55.apk",
+    "path": "apk/tachiyomi-en.theblank-v1.4.55.apk",
+    "sha": "5951b663bd734478f13bd78cdba3c454d7a3a48f",
+    "size": 76316,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.theblank-v1.4.55.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.theblank-v1.4.55.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/5951b663bd734478f13bd78cdba3c454d7a3a48f",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.theblank-v1.4.55.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.theblank-v1.4.54.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b1871d0ed3e44228d0db3acd50e4fbda3dfd8319",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.theblank-v1.4.54.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.theblank-v1.4.55.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/5951b663bd734478f13bd78cdba3c454d7a3a48f",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.theblank-v1.4.55.apk"
     }
   },
   {
@@ -8880,19 +8880,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.timelesstoons-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.timelesstoons-v1.4.19.apk",
-    "sha": "94aae43418465e5f8ca20bf7d79d2acba82a65a3",
-    "size": 96213,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.timelesstoons-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.timelesstoons-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/94aae43418465e5f8ca20bf7d79d2acba82a65a3",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.timelesstoons-v1.4.19.apk",
+    "name": "tachiyomi-en.timelesstoons-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.timelesstoons-v1.4.20.apk",
+    "sha": "8f2566a0acd4a7b414c1bd8b25ca26d064982e3c",
+    "size": 96164,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.timelesstoons-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.timelesstoons-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/8f2566a0acd4a7b414c1bd8b25ca26d064982e3c",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.timelesstoons-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.timelesstoons-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/94aae43418465e5f8ca20bf7d79d2acba82a65a3",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.timelesstoons-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.timelesstoons-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/8f2566a0acd4a7b414c1bd8b25ca26d064982e3c",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.timelesstoons-v1.4.20.apk"
     }
   },
   {
@@ -9104,19 +9104,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.vanillascans-v1.4.22.apk",
-    "path": "apk/tachiyomi-en.vanillascans-v1.4.22.apk",
-    "sha": "6e0d9b0cdda2e6e8a4264e31f09f030bc9cd428f",
-    "size": 95108,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.vanillascans-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.vanillascans-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6e0d9b0cdda2e6e8a4264e31f09f030bc9cd428f",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.vanillascans-v1.4.22.apk",
+    "name": "tachiyomi-en.vanillascans-v1.4.23.apk",
+    "path": "apk/tachiyomi-en.vanillascans-v1.4.23.apk",
+    "sha": "5a8241e91a01151f03f675f26ebecf53da780277",
+    "size": 95104,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.vanillascans-v1.4.23.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.vanillascans-v1.4.23.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/5a8241e91a01151f03f675f26ebecf53da780277",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.vanillascans-v1.4.23.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.vanillascans-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6e0d9b0cdda2e6e8a4264e31f09f030bc9cd428f",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.vanillascans-v1.4.22.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.vanillascans-v1.4.23.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/5a8241e91a01151f03f675f26ebecf53da780277",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.vanillascans-v1.4.23.apk"
     }
   },
   {
@@ -9168,19 +9168,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.vyvymanga-v1.4.39.apk",
-    "path": "apk/tachiyomi-en.vyvymanga-v1.4.39.apk",
-    "sha": "fa14b06c9479fb2934d5e428ca42ff4a4ac0781a",
-    "size": 39646,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.vyvymanga-v1.4.39.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.vyvymanga-v1.4.39.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/fa14b06c9479fb2934d5e428ca42ff4a4ac0781a",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.vyvymanga-v1.4.39.apk",
+    "name": "tachiyomi-en.vyvymanga-v1.4.40.apk",
+    "path": "apk/tachiyomi-en.vyvymanga-v1.4.40.apk",
+    "sha": "41adbb84fcd45c9c722126d795a09bb96ac93aff",
+    "size": 39701,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.vyvymanga-v1.4.40.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.vyvymanga-v1.4.40.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/41adbb84fcd45c9c722126d795a09bb96ac93aff",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.vyvymanga-v1.4.40.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.vyvymanga-v1.4.39.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/fa14b06c9479fb2934d5e428ca42ff4a4ac0781a",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.vyvymanga-v1.4.39.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.vyvymanga-v1.4.40.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/41adbb84fcd45c9c722126d795a09bb96ac93aff",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.vyvymanga-v1.4.40.apk"
     }
   },
   {
@@ -9376,19 +9376,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.writerscans-v1.4.19.apk",
-    "path": "apk/tachiyomi-en.writerscans-v1.4.19.apk",
-    "sha": "bfdd0c645b9d70de56238e1578c385e5bd671ccb",
-    "size": 86911,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.writerscans-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.writerscans-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bfdd0c645b9d70de56238e1578c385e5bd671ccb",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.writerscans-v1.4.19.apk",
+    "name": "tachiyomi-en.writerscans-v1.4.20.apk",
+    "path": "apk/tachiyomi-en.writerscans-v1.4.20.apk",
+    "sha": "78ad02487a5e62fbeef9614be36ac3402e2f54a5",
+    "size": 86996,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.writerscans-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.writerscans-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/78ad02487a5e62fbeef9614be36ac3402e2f54a5",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.writerscans-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.writerscans-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bfdd0c645b9d70de56238e1578c385e5bd671ccb",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.writerscans-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.writerscans-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/78ad02487a5e62fbeef9614be36ac3402e2f54a5",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.writerscans-v1.4.20.apk"
     }
   },
   {
@@ -9888,19 +9888,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.begatranslation-v1.4.51.apk",
-    "path": "apk/tachiyomi-es.begatranslation-v1.4.51.apk",
-    "sha": "9b6c97149bfbe49c0cd9c05fe0b13393fe573af0",
-    "size": 102314,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.begatranslation-v1.4.51.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.begatranslation-v1.4.51.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9b6c97149bfbe49c0cd9c05fe0b13393fe573af0",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.begatranslation-v1.4.51.apk",
+    "name": "tachiyomi-es.begatranslation-v1.4.52.apk",
+    "path": "apk/tachiyomi-es.begatranslation-v1.4.52.apk",
+    "sha": "b810e92f277ea82abbfe8dfd195d89a803a0b739",
+    "size": 104934,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.begatranslation-v1.4.52.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.begatranslation-v1.4.52.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b810e92f277ea82abbfe8dfd195d89a803a0b739",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.begatranslation-v1.4.52.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.begatranslation-v1.4.51.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9b6c97149bfbe49c0cd9c05fe0b13393fe573af0",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.begatranslation-v1.4.51.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.begatranslation-v1.4.52.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b810e92f277ea82abbfe8dfd195d89a803a0b739",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.begatranslation-v1.4.52.apk"
     }
   },
   {
@@ -10128,19 +10128,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.chochox-v1.4.2.apk",
-    "path": "apk/tachiyomi-es.chochox-v1.4.2.apk",
-    "sha": "65fb72a3140289dd66e5a3907be307efa1cf945a",
-    "size": 47709,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.chochox-v1.4.2.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.chochox-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/65fb72a3140289dd66e5a3907be307efa1cf945a",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.chochox-v1.4.2.apk",
+    "name": "tachiyomi-es.chochox-v1.4.3.apk",
+    "path": "apk/tachiyomi-es.chochox-v1.4.3.apk",
+    "sha": "35eaa188196ee397139b8bbb15bdc98ae4a5cddb",
+    "size": 47789,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.chochox-v1.4.3.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.chochox-v1.4.3.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/35eaa188196ee397139b8bbb15bdc98ae4a5cddb",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.chochox-v1.4.3.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.chochox-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/65fb72a3140289dd66e5a3907be307efa1cf945a",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.chochox-v1.4.2.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.chochox-v1.4.3.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/35eaa188196ee397139b8bbb15bdc98ae4a5cddb",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.chochox-v1.4.3.apk"
     }
   },
   {
@@ -10544,19 +10544,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.eternalmangas-v1.4.24.apk",
-    "path": "apk/tachiyomi-es.eternalmangas-v1.4.24.apk",
-    "sha": "677cf30cea3e8d02d820ea4847d748ea7042e93b",
-    "size": 109621,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.eternalmangas-v1.4.24.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.eternalmangas-v1.4.24.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/677cf30cea3e8d02d820ea4847d748ea7042e93b",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.eternalmangas-v1.4.24.apk",
+    "name": "tachiyomi-es.eternalmangas-v1.4.25.apk",
+    "path": "apk/tachiyomi-es.eternalmangas-v1.4.25.apk",
+    "sha": "2926076603957e55ae595c3353224539044e7f46",
+    "size": 109605,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.eternalmangas-v1.4.25.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.eternalmangas-v1.4.25.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2926076603957e55ae595c3353224539044e7f46",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.eternalmangas-v1.4.25.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.eternalmangas-v1.4.24.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/677cf30cea3e8d02d820ea4847d748ea7042e93b",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.eternalmangas-v1.4.24.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.eternalmangas-v1.4.25.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2926076603957e55ae595c3353224539044e7f46",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.eternalmangas-v1.4.25.apk"
     }
   },
   {
@@ -11520,19 +11520,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.mangasin-v1.4.19.apk",
-    "path": "apk/tachiyomi-es.mangasin-v1.4.19.apk",
-    "sha": "2e1969b2071e3d5fb9ff706d45be23ff6973abd8",
-    "size": 188755,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.mangasin-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.mangasin-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2e1969b2071e3d5fb9ff706d45be23ff6973abd8",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.mangasin-v1.4.19.apk",
+    "name": "tachiyomi-es.mangasin-v1.4.20.apk",
+    "path": "apk/tachiyomi-es.mangasin-v1.4.20.apk",
+    "sha": "94844cd0c882767b496632eaa51004f2d0812237",
+    "size": 189314,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.mangasin-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.mangasin-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/94844cd0c882767b496632eaa51004f2d0812237",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.mangasin-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.mangasin-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2e1969b2071e3d5fb9ff706d45be23ff6973abd8",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.mangasin-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.mangasin-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/94844cd0c882767b496632eaa51004f2d0812237",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.mangasin-v1.4.20.apk"
     }
   },
   {
@@ -11888,19 +11888,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.olympusscanlation-v1.4.17.apk",
-    "path": "apk/tachiyomi-es.olympusscanlation-v1.4.17.apk",
-    "sha": "b8575395ae59ecf4d91eb3d1da74745d31a45264",
-    "size": 78361,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.olympusscanlation-v1.4.17.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.olympusscanlation-v1.4.17.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b8575395ae59ecf4d91eb3d1da74745d31a45264",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.olympusscanlation-v1.4.17.apk",
+    "name": "tachiyomi-es.olympusscanlation-v1.4.18.apk",
+    "path": "apk/tachiyomi-es.olympusscanlation-v1.4.18.apk",
+    "sha": "f042cd6f607e9ad29f12caee88f3266362d50770",
+    "size": 78358,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.olympusscanlation-v1.4.18.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.olympusscanlation-v1.4.18.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f042cd6f607e9ad29f12caee88f3266362d50770",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.olympusscanlation-v1.4.18.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.olympusscanlation-v1.4.17.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b8575395ae59ecf4d91eb3d1da74745d31a45264",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.olympusscanlation-v1.4.17.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.olympusscanlation-v1.4.18.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f042cd6f607e9ad29f12caee88f3266362d50770",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.olympusscanlation-v1.4.18.apk"
     }
   },
   {
@@ -12816,19 +12816,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.vcpvmp-v1.4.11.apk",
-    "path": "apk/tachiyomi-es.vcpvmp-v1.4.11.apk",
-    "sha": "d3a6ddfba4bbbeee312c738f3ae5ed3ccd16d7e8",
-    "size": 114120,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.vcpvmp-v1.4.11.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.vcpvmp-v1.4.11.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/d3a6ddfba4bbbeee312c738f3ae5ed3ccd16d7e8",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.vcpvmp-v1.4.11.apk",
+    "name": "tachiyomi-es.vcpvmp-v1.4.12.apk",
+    "path": "apk/tachiyomi-es.vcpvmp-v1.4.12.apk",
+    "sha": "29c985fa48874ce669e6f061dc59f271d37b7bfe",
+    "size": 114211,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.vcpvmp-v1.4.12.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.vcpvmp-v1.4.12.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/29c985fa48874ce669e6f061dc59f271d37b7bfe",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.vcpvmp-v1.4.12.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.vcpvmp-v1.4.11.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/d3a6ddfba4bbbeee312c738f3ae5ed3ccd16d7e8",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.vcpvmp-v1.4.11.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.vcpvmp-v1.4.12.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/29c985fa48874ce669e6f061dc59f271d37b7bfe",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.vcpvmp-v1.4.12.apk"
     }
   },
   {
@@ -13072,19 +13072,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.epsilonscan-v1.4.52.apk",
-    "path": "apk/tachiyomi-fr.epsilonscan-v1.4.52.apk",
-    "sha": "e8f2e9d58ccdb59d8e366cba2274b22c851092bd",
-    "size": 54453,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.epsilonscan-v1.4.52.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.epsilonscan-v1.4.52.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e8f2e9d58ccdb59d8e366cba2274b22c851092bd",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-fr.epsilonscan-v1.4.52.apk",
+    "name": "tachiyomi-fr.epsilonscan-v1.4.53.apk",
+    "path": "apk/tachiyomi-fr.epsilonscan-v1.4.53.apk",
+    "sha": "a862bed43f91a339c32bc9843bc775874eba7c6d",
+    "size": 67349,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.epsilonscan-v1.4.53.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.epsilonscan-v1.4.53.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a862bed43f91a339c32bc9843bc775874eba7c6d",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-fr.epsilonscan-v1.4.53.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.epsilonscan-v1.4.52.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e8f2e9d58ccdb59d8e366cba2274b22c851092bd",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.epsilonscan-v1.4.52.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.epsilonscan-v1.4.53.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a862bed43f91a339c32bc9843bc775874eba7c6d",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.epsilonscan-v1.4.53.apk"
     }
   },
   {
@@ -13696,51 +13696,51 @@
     }
   },
   {
-    "name": "tachiyomi-fr.scanvf-v1.4.14.apk",
-    "path": "apk/tachiyomi-fr.scanvf-v1.4.14.apk",
-    "sha": "75c3af79e85a233cc524d287f377678b85107297",
-    "size": 89460,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.scanvf-v1.4.14.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.scanvf-v1.4.14.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/75c3af79e85a233cc524d287f377678b85107297",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-fr.scanvf-v1.4.14.apk",
+    "name": "tachiyomi-fr.scanvf-v1.4.15.apk",
+    "path": "apk/tachiyomi-fr.scanvf-v1.4.15.apk",
+    "sha": "a22e445f768d74eab503daaa8f21c38943cfeba1",
+    "size": 90263,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.scanvf-v1.4.15.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.scanvf-v1.4.15.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a22e445f768d74eab503daaa8f21c38943cfeba1",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-fr.scanvf-v1.4.15.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.scanvf-v1.4.14.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/75c3af79e85a233cc524d287f377678b85107297",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.scanvf-v1.4.14.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.scanvf-v1.4.15.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a22e445f768d74eab503daaa8f21c38943cfeba1",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.scanvf-v1.4.15.apk"
     }
   },
   {
-    "name": "tachiyomi-fr.sirenscansfr-v1.4.19.apk",
-    "path": "apk/tachiyomi-fr.sirenscansfr-v1.4.19.apk",
-    "sha": "702ed6307b7cab41533cb6496559d575e3ebab81",
-    "size": 131103,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.sirenscansfr-v1.4.19.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.sirenscansfr-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/702ed6307b7cab41533cb6496559d575e3ebab81",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-fr.sirenscansfr-v1.4.19.apk",
+    "name": "tachiyomi-fr.sirenscansfr-v1.4.20.apk",
+    "path": "apk/tachiyomi-fr.sirenscansfr-v1.4.20.apk",
+    "sha": "6920056d9b2cb1744627a4a40093287ddca9c22a",
+    "size": 131194,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.sirenscansfr-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.sirenscansfr-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6920056d9b2cb1744627a4a40093287ddca9c22a",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-fr.sirenscansfr-v1.4.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.sirenscansfr-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/702ed6307b7cab41533cb6496559d575e3ebab81",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.sirenscansfr-v1.4.19.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.sirenscansfr-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6920056d9b2cb1744627a4a40093287ddca9c22a",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.sirenscansfr-v1.4.20.apk"
     }
   },
   {
-    "name": "tachiyomi-fr.softepsilonscan-v1.4.52.apk",
-    "path": "apk/tachiyomi-fr.softepsilonscan-v1.4.52.apk",
-    "sha": "b2b47cd5a8df482d99e6bc649fbdc6ea51f032d1",
-    "size": 54468,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.softepsilonscan-v1.4.52.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.softepsilonscan-v1.4.52.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b2b47cd5a8df482d99e6bc649fbdc6ea51f032d1",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-fr.softepsilonscan-v1.4.52.apk",
+    "name": "tachiyomi-fr.softepsilonscan-v1.4.53.apk",
+    "path": "apk/tachiyomi-fr.softepsilonscan-v1.4.53.apk",
+    "sha": "144ed9efe6d303a581ad73ce90b6f35bcafd6966",
+    "size": 67228,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.softepsilonscan-v1.4.53.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.softepsilonscan-v1.4.53.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/144ed9efe6d303a581ad73ce90b6f35bcafd6966",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-fr.softepsilonscan-v1.4.53.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.softepsilonscan-v1.4.52.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b2b47cd5a8df482d99e6bc649fbdc6ea51f032d1",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.softepsilonscan-v1.4.52.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.softepsilonscan-v1.4.53.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/144ed9efe6d303a581ad73ce90b6f35bcafd6966",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.softepsilonscan-v1.4.53.apk"
     }
   },
   {
@@ -13952,19 +13952,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.crotpedia-v1.4.1.apk",
-    "path": "apk/tachiyomi-id.crotpedia-v1.4.1.apk",
-    "sha": "e8c8bf395713f174ef2ee35461fb54616cbb9d61",
-    "size": 50458,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.crotpedia-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.crotpedia-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e8c8bf395713f174ef2ee35461fb54616cbb9d61",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-id.crotpedia-v1.4.1.apk",
+    "name": "tachiyomi-id.crotpedia-v1.4.2.apk",
+    "path": "apk/tachiyomi-id.crotpedia-v1.4.2.apk",
+    "sha": "83f6df1087fed838c7889dc94861a59d79da7f69",
+    "size": 50906,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.crotpedia-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.crotpedia-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/83f6df1087fed838c7889dc94861a59d79da7f69",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-id.crotpedia-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.crotpedia-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e8c8bf395713f174ef2ee35461fb54616cbb9d61",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.crotpedia-v1.4.1.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.crotpedia-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/83f6df1087fed838c7889dc94861a59d79da7f69",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.crotpedia-v1.4.2.apk"
     }
   },
   {
@@ -14544,19 +14544,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.maidmanga-v1.4.11.apk",
-    "path": "apk/tachiyomi-id.maidmanga-v1.4.11.apk",
-    "sha": "f8b3b3a30acabd32948ea1faa4e7195da9b24559",
-    "size": 39243,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.maidmanga-v1.4.11.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.maidmanga-v1.4.11.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f8b3b3a30acabd32948ea1faa4e7195da9b24559",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-id.maidmanga-v1.4.11.apk",
+    "name": "tachiyomi-id.maidmanga-v1.4.12.apk",
+    "path": "apk/tachiyomi-id.maidmanga-v1.4.12.apk",
+    "sha": "75031da37b063354599800de573b3e2b55b17be0",
+    "size": 39687,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.maidmanga-v1.4.12.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.maidmanga-v1.4.12.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/75031da37b063354599800de573b3e2b55b17be0",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-id.maidmanga-v1.4.12.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.maidmanga-v1.4.11.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f8b3b3a30acabd32948ea1faa4e7195da9b24559",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.maidmanga-v1.4.11.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.maidmanga-v1.4.12.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/75031da37b063354599800de573b3e2b55b17be0",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.maidmanga-v1.4.12.apk"
     }
   },
   {
@@ -14848,19 +14848,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.ngomik-v1.4.37.apk",
-    "path": "apk/tachiyomi-id.ngomik-v1.4.37.apk",
-    "sha": "bd6093e743666d58157199966ed89fa27c33426c",
-    "size": 61282,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.ngomik-v1.4.37.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.ngomik-v1.4.37.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bd6093e743666d58157199966ed89fa27c33426c",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-id.ngomik-v1.4.37.apk",
+    "name": "tachiyomi-id.ngomik-v1.4.38.apk",
+    "path": "apk/tachiyomi-id.ngomik-v1.4.38.apk",
+    "sha": "af66a9e09edebfdff5aa6c1aab3ef7026ef79ecf",
+    "size": 61287,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.ngomik-v1.4.38.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.ngomik-v1.4.38.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/af66a9e09edebfdff5aa6c1aab3ef7026ef79ecf",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-id.ngomik-v1.4.38.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.ngomik-v1.4.37.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bd6093e743666d58157199966ed89fa27c33426c",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.ngomik-v1.4.37.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.ngomik-v1.4.38.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/af66a9e09edebfdff5aa6c1aab3ef7026ef79ecf",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.ngomik-v1.4.38.apk"
     }
   },
   {
@@ -15088,19 +15088,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.shirodoujin-v1.4.2.apk",
-    "path": "apk/tachiyomi-id.shirodoujin-v1.4.2.apk",
-    "sha": "10e4ea04c8ef960d0495893b3305610a484ae3de",
-    "size": 28694,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.shirodoujin-v1.4.2.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.shirodoujin-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/10e4ea04c8ef960d0495893b3305610a484ae3de",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-id.shirodoujin-v1.4.2.apk",
+    "name": "tachiyomi-id.shirodoujin-v1.4.3.apk",
+    "path": "apk/tachiyomi-id.shirodoujin-v1.4.3.apk",
+    "sha": "7a0d76b3d23446b4e08bf9f0298ae65f7800ad48",
+    "size": 29122,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.shirodoujin-v1.4.3.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.shirodoujin-v1.4.3.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7a0d76b3d23446b4e08bf9f0298ae65f7800ad48",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-id.shirodoujin-v1.4.3.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.shirodoujin-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/10e4ea04c8ef960d0495893b3305610a484ae3de",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.shirodoujin-v1.4.2.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.shirodoujin-v1.4.3.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7a0d76b3d23446b4e08bf9f0298ae65f7800ad48",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.shirodoujin-v1.4.3.apk"
     }
   },
   {
@@ -15392,35 +15392,35 @@
     }
   },
   {
-    "name": "tachiyomi-it.mangaworld-v1.4.13.apk",
-    "path": "apk/tachiyomi-it.mangaworld-v1.4.13.apk",
-    "sha": "2d00e2e632d96a86e3ebc385bc0fed32fc5bda4a",
-    "size": 35703,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-it.mangaworld-v1.4.13.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-it.mangaworld-v1.4.13.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2d00e2e632d96a86e3ebc385bc0fed32fc5bda4a",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-it.mangaworld-v1.4.13.apk",
+    "name": "tachiyomi-it.mangaworld-v1.4.14.apk",
+    "path": "apk/tachiyomi-it.mangaworld-v1.4.14.apk",
+    "sha": "9dc97306993953a87794f22ee1a61fa7ba597d08",
+    "size": 35088,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-it.mangaworld-v1.4.14.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-it.mangaworld-v1.4.14.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9dc97306993953a87794f22ee1a61fa7ba597d08",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-it.mangaworld-v1.4.14.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-it.mangaworld-v1.4.13.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2d00e2e632d96a86e3ebc385bc0fed32fc5bda4a",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-it.mangaworld-v1.4.13.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-it.mangaworld-v1.4.14.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9dc97306993953a87794f22ee1a61fa7ba597d08",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-it.mangaworld-v1.4.14.apk"
     }
   },
   {
-    "name": "tachiyomi-it.mangaworldadult-v1.4.5.apk",
-    "path": "apk/tachiyomi-it.mangaworldadult-v1.4.5.apk",
-    "sha": "4351797610323629f3192dd7b58f3dc3d72f1252",
-    "size": 35720,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-it.mangaworldadult-v1.4.5.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-it.mangaworldadult-v1.4.5.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/4351797610323629f3192dd7b58f3dc3d72f1252",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-it.mangaworldadult-v1.4.5.apk",
+    "name": "tachiyomi-it.mangaworldadult-v1.4.6.apk",
+    "path": "apk/tachiyomi-it.mangaworldadult-v1.4.6.apk",
+    "sha": "1cd74e56161fa32acf95ba50ae2bd54288ddab52",
+    "size": 35088,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-it.mangaworldadult-v1.4.6.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-it.mangaworldadult-v1.4.6.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1cd74e56161fa32acf95ba50ae2bd54288ddab52",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-it.mangaworldadult-v1.4.6.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-it.mangaworldadult-v1.4.5.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/4351797610323629f3192dd7b58f3dc3d72f1252",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-it.mangaworldadult-v1.4.5.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-it.mangaworldadult-v1.4.6.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1cd74e56161fa32acf95ba50ae2bd54288ddab52",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-it.mangaworldadult-v1.4.6.apk"
     }
   },
   {
@@ -15920,19 +15920,19 @@
     }
   },
   {
-    "name": "tachiyomi-ja.dokiraw-v1.4.5.apk",
-    "path": "apk/tachiyomi-ja.dokiraw-v1.4.5.apk",
-    "sha": "7cc8d98079d7ef0c6bf2113dbc3a728e31f407aa",
-    "size": 72187,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.dokiraw-v1.4.5.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.dokiraw-v1.4.5.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7cc8d98079d7ef0c6bf2113dbc3a728e31f407aa",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ja.dokiraw-v1.4.5.apk",
+    "name": "tachiyomi-ja.dokiraw-v1.4.7.apk",
+    "path": "apk/tachiyomi-ja.dokiraw-v1.4.7.apk",
+    "sha": "564b63bc14ab97c853a81a0d52a6f1ddc2cbaf44",
+    "size": 71521,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.dokiraw-v1.4.7.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.dokiraw-v1.4.7.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/564b63bc14ab97c853a81a0d52a6f1ddc2cbaf44",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ja.dokiraw-v1.4.7.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.dokiraw-v1.4.5.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7cc8d98079d7ef0c6bf2113dbc3a728e31f407aa",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.dokiraw-v1.4.5.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.dokiraw-v1.4.7.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/564b63bc14ab97c853a81a0d52a6f1ddc2cbaf44",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.dokiraw-v1.4.7.apk"
     }
   },
   {
