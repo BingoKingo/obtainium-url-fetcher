@@ -1,18 +1,18 @@
 [
   {
-    "name": "aniyomi-all.jellyfin-v16.30.apk",
-    "path": "apk/aniyomi-all.jellyfin-v16.30.apk",
-    "sha": "0a2756123e0eeaa5d03055d5b6226c1fa705a949",
-    "size": 453151,
-    "url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.jellyfin-v16.30.apk?ref=repo",
-    "html_url": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.jellyfin-v16.30.apk",
-    "git_url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/0a2756123e0eeaa5d03055d5b6226c1fa705a949",
-    "download_url": "https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/repo/apk/aniyomi-all.jellyfin-v16.30.apk",
+    "name": "aniyomi-all.jellyfin-v16.31.apk",
+    "path": "apk/aniyomi-all.jellyfin-v16.31.apk",
+    "sha": "5b383f70df740475df4b4227be2cb1b914f4613e",
+    "size": 454219,
+    "url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.jellyfin-v16.31.apk?ref=repo",
+    "html_url": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.jellyfin-v16.31.apk",
+    "git_url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/5b383f70df740475df4b4227be2cb1b914f4613e",
+    "download_url": "https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/repo/apk/aniyomi-all.jellyfin-v16.31.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.jellyfin-v16.30.apk?ref=repo",
-      "git": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/0a2756123e0eeaa5d03055d5b6226c1fa705a949",
-      "html": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.jellyfin-v16.30.apk"
+      "self": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.jellyfin-v16.31.apk?ref=repo",
+      "git": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/5b383f70df740475df4b4227be2cb1b914f4613e",
+      "html": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.jellyfin-v16.31.apk"
     }
   },
   {
