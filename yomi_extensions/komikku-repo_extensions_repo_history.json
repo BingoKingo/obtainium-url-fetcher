@@ -3888,19 +3888,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.divascans-v1.4.22.apk",
-    "path": "apk/tachiyomi-en.divascans-v1.4.22.apk",
-    "sha": "77dd1eeb5fb386bb639a7e65583ebcb2e380c1f9",
-    "size": 117282,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.divascans-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.divascans-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/77dd1eeb5fb386bb639a7e65583ebcb2e380c1f9",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.divascans-v1.4.22.apk",
+    "name": "tachiyomi-en.divascans-v1.4.24.apk",
+    "path": "apk/tachiyomi-en.divascans-v1.4.24.apk",
+    "sha": "c83e4e55f5fab4129da73952b27efa5e2806a423",
+    "size": 117281,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.divascans-v1.4.24.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.divascans-v1.4.24.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c83e4e55f5fab4129da73952b27efa5e2806a423",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.divascans-v1.4.24.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.divascans-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/77dd1eeb5fb386bb639a7e65583ebcb2e380c1f9",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.divascans-v1.4.22.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.divascans-v1.4.24.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c83e4e55f5fab4129da73952b27efa5e2806a423",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.divascans-v1.4.24.apk"
     }
   },
   {
