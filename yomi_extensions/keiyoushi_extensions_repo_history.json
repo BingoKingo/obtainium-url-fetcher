@@ -3872,19 +3872,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.divascans-v1.4.22.apk",
-    "path": "apk/tachiyomi-en.divascans-v1.4.22.apk",
-    "sha": "e92d6553ae3552b19708d9d9b081d05fd4f2564b",
-    "size": 117306,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.divascans-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.divascans-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/e92d6553ae3552b19708d9d9b081d05fd4f2564b",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.divascans-v1.4.22.apk",
+    "name": "tachiyomi-en.divascans-v1.4.24.apk",
+    "path": "apk/tachiyomi-en.divascans-v1.4.24.apk",
+    "sha": "249c2844d9a4d842620148d0d1622dcc410ab6af",
+    "size": 117303,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.divascans-v1.4.24.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.divascans-v1.4.24.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/249c2844d9a4d842620148d0d1622dcc410ab6af",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.divascans-v1.4.24.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.divascans-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/e92d6553ae3552b19708d9d9b081d05fd4f2564b",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.divascans-v1.4.22.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.divascans-v1.4.24.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/249c2844d9a4d842620148d0d1622dcc410ab6af",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.divascans-v1.4.24.apk"
     }
   },
   {
