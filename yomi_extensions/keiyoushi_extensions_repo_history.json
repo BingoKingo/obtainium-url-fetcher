@@ -2384,6 +2384,22 @@
     }
   },
   {
+    "name": "tachiyomi-ar.kawiimanga-v1.4.1.apk",
+    "path": "apk/tachiyomi-ar.kawiimanga-v1.4.1.apk",
+    "sha": "8d53abb11073b38b361dcfba920c9353ea797c1e",
+    "size": 69295,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ar.kawiimanga-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ar.kawiimanga-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8d53abb11073b38b361dcfba920c9353ea797c1e",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ar.kawiimanga-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ar.kawiimanga-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8d53abb11073b38b361dcfba920c9353ea797c1e",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ar.kawiimanga-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-ar.lonertranslations-v1.4.13.apk",
     "path": "apk/tachiyomi-ar.lonertranslations-v1.4.13.apk",
     "sha": "b58919a65b4bdf67239a4bf2d48cf4bee78d7aa0",
@@ -8032,19 +8048,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.readcomiconline-v1.4.43.apk",
-    "path": "apk/tachiyomi-en.readcomiconline-v1.4.43.apk",
-    "sha": "4119b7c0bd8e379de85459d056f1c85e2ad47373",
-    "size": 59436,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readcomiconline-v1.4.43.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.43.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4119b7c0bd8e379de85459d056f1c85e2ad47373",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.readcomiconline-v1.4.43.apk",
+    "name": "tachiyomi-en.readcomiconline-v1.4.44.apk",
+    "path": "apk/tachiyomi-en.readcomiconline-v1.4.44.apk",
+    "sha": "532051593a4a14539716bd302845eba2c94cc9f8",
+    "size": 59431,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readcomiconline-v1.4.44.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.44.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/532051593a4a14539716bd302845eba2c94cc9f8",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.readcomiconline-v1.4.44.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readcomiconline-v1.4.43.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4119b7c0bd8e379de85459d056f1c85e2ad47373",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.43.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readcomiconline-v1.4.44.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/532051593a4a14539716bd302845eba2c94cc9f8",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.44.apk"
     }
   },
   {
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.animexnovel-v1.4.18.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ce44bcd3bd1a6d8d976763352f350749ce035ea2",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.animexnovel-v1.4.18.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.apecomics-v1.4.47.apk",
-    "path": "apk/tachiyomi-pt.apecomics-v1.4.47.apk",
-    "sha": "556852c849237edf717ba80e8e8ba459d0a7e0ba",
-    "size": 78048,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.apecomics-v1.4.47.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.apecomics-v1.4.47.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/556852c849237edf717ba80e8e8ba459d0a7e0ba",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.apecomics-v1.4.47.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.apecomics-v1.4.47.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/556852c849237edf717ba80e8e8ba459d0a7e0ba",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.apecomics-v1.4.47.apk"
     }
   }
 ]
