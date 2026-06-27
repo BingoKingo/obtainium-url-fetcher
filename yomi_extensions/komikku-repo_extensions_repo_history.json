@@ -3680,19 +3680,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.comix-v1.4.31.apk",
-    "path": "apk/tachiyomi-en.comix-v1.4.31.apk",
-    "sha": "1af06d352e7e8b54ab60c1f98f8a61c0387e6d6d",
-    "size": 96872,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.31.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.31.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1af06d352e7e8b54ab60c1f98f8a61c0387e6d6d",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.comix-v1.4.31.apk",
+    "name": "tachiyomi-en.comix-v1.4.32.apk",
+    "path": "apk/tachiyomi-en.comix-v1.4.32.apk",
+    "sha": "7e9b89cae92ba3c894395b4eb2e7f8f8fb80345d",
+    "size": 96908,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.32.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.32.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7e9b89cae92ba3c894395b4eb2e7f8f8fb80345d",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.comix-v1.4.32.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.31.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1af06d352e7e8b54ab60c1f98f8a61c0387e6d6d",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.31.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.32.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7e9b89cae92ba3c894395b4eb2e7f8f8fb80345d",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.32.apk"
     }
   },
   {
@@ -12608,19 +12608,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.doujindesu-v1.4.15.apk",
-    "path": "apk/tachiyomi-id.doujindesu-v1.4.15.apk",
-    "sha": "3367f4fc45a1ef40a49ab41532246cd70275cf75",
-    "size": 78639,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.doujindesu-v1.4.15.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.doujindesu-v1.4.15.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/3367f4fc45a1ef40a49ab41532246cd70275cf75",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-id.doujindesu-v1.4.15.apk",
+    "name": "tachiyomi-id.doujindesu-v1.4.16.apk",
+    "path": "apk/tachiyomi-id.doujindesu-v1.4.16.apk",
+    "sha": "30cda12d6569b1788296bddf5c5a7a747fabc3cf",
+    "size": 79233,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.doujindesu-v1.4.16.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.doujindesu-v1.4.16.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/30cda12d6569b1788296bddf5c5a7a747fabc3cf",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-id.doujindesu-v1.4.16.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.doujindesu-v1.4.15.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/3367f4fc45a1ef40a49ab41532246cd70275cf75",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.doujindesu-v1.4.15.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.doujindesu-v1.4.16.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/30cda12d6569b1788296bddf5c5a7a747fabc3cf",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.doujindesu-v1.4.16.apk"
     }
   },
   {
