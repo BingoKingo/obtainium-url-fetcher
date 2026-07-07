@@ -146,16 +146,16 @@
   {
     "name": "tachiyomi-all.comicklive-v1.4.5.apk",
     "path": "apk/tachiyomi-all.comicklive-v1.4.5.apk",
-    "sha": "36175eb6e5ddf28945c624b261e18836e3d496f2",
-    "size": 78385,
+    "sha": "150d4d6dde943ebf3d4024edcd208e164d3279d1",
+    "size": 78415,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.comicklive-v1.4.5.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.comicklive-v1.4.5.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/36175eb6e5ddf28945c624b261e18836e3d496f2",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/150d4d6dde943ebf3d4024edcd208e164d3279d1",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.comicklive-v1.4.5.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.comicklive-v1.4.5.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/36175eb6e5ddf28945c624b261e18836e3d496f2",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/150d4d6dde943ebf3d4024edcd208e164d3279d1",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.comicklive-v1.4.5.apk"
     }
   },
@@ -850,16 +850,16 @@
   {
     "name": "tachiyomi-all.koharu-v1.4.20.apk",
     "path": "apk/tachiyomi-all.koharu-v1.4.20.apk",
-    "sha": "4d7d922433ae5fb0fb43a4f475973e71831d54e4",
-    "size": 121846,
+    "sha": "9e9e085311f0ce95a6921ce9dbef14991ea83789",
+    "size": 121921,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.koharu-v1.4.20.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.koharu-v1.4.20.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4d7d922433ae5fb0fb43a4f475973e71831d54e4",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9e9e085311f0ce95a6921ce9dbef14991ea83789",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.koharu-v1.4.20.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.koharu-v1.4.20.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4d7d922433ae5fb0fb43a4f475973e71831d54e4",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9e9e085311f0ce95a6921ce9dbef14991ea83789",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.koharu-v1.4.20.apk"
     }
   },
@@ -930,16 +930,16 @@
   {
     "name": "tachiyomi-all.luscious-v1.4.32.apk",
     "path": "apk/tachiyomi-all.luscious-v1.4.32.apk",
-    "sha": "da6505be4011dae62e617d3bb3e6376ceedbc6d3",
-    "size": 80862,
+    "sha": "5af0d335b9e55fd52809bd56d41eb2b032c16119",
+    "size": 80993,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.luscious-v1.4.32.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.luscious-v1.4.32.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/da6505be4011dae62e617d3bb3e6376ceedbc6d3",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5af0d335b9e55fd52809bd56d41eb2b032c16119",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.luscious-v1.4.32.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.luscious-v1.4.32.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/da6505be4011dae62e617d3bb3e6376ceedbc6d3",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5af0d335b9e55fd52809bd56d41eb2b032c16119",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.luscious-v1.4.32.apk"
     }
   },
@@ -2386,16 +2386,16 @@
   {
     "name": "tachiyomi-ar.mangalek-v1.4.62.apk",
     "path": "apk/tachiyomi-ar.mangalek-v1.4.62.apk",
-    "sha": "57d6d70c7c88600b42c60c10a4aede46d98ea9a9",
-    "size": 66052,
+    "sha": "1cd1f79c11d35a94c5b3c4456e308f7e2801302d",
+    "size": 66170,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ar.mangalek-v1.4.62.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ar.mangalek-v1.4.62.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/57d6d70c7c88600b42c60c10a4aede46d98ea9a9",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/1cd1f79c11d35a94c5b3c4456e308f7e2801302d",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ar.mangalek-v1.4.62.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ar.mangalek-v1.4.62.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/57d6d70c7c88600b42c60c10a4aede46d98ea9a9",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/1cd1f79c11d35a94c5b3c4456e308f7e2801302d",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ar.mangalek-v1.4.62.apk"
     }
   },
@@ -4914,16 +4914,16 @@
   {
     "name": "tachiyomi-en.kaliscancom-v1.4.25.apk",
     "path": "apk/tachiyomi-en.kaliscancom-v1.4.25.apk",
-    "sha": "b2755f8ee1af59b56ea53d2a7e8e6b35eff28530",
-    "size": 88959,
+    "sha": "c0854958464fc3c2eff3613517c20ac84d50f49b",
+    "size": 89067,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kaliscancom-v1.4.25.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kaliscancom-v1.4.25.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b2755f8ee1af59b56ea53d2a7e8e6b35eff28530",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c0854958464fc3c2eff3613517c20ac84d50f49b",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.kaliscancom-v1.4.25.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kaliscancom-v1.4.25.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b2755f8ee1af59b56ea53d2a7e8e6b35eff28530",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c0854958464fc3c2eff3613517c20ac84d50f49b",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kaliscancom-v1.4.25.apk"
     }
   },
@@ -5954,16 +5954,16 @@
   {
     "name": "tachiyomi-en.mangakakalot-v1.4.22.apk",
     "path": "apk/tachiyomi-en.mangakakalot-v1.4.22.apk",
-    "sha": "84e6af1acb3f3e3e8effc37095d2b1c40bfcd342",
-    "size": 104774,
+    "sha": "3551e7b305d78a09f6bb23b599bf012ab527f204",
+    "size": 104832,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangakakalot-v1.4.22.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangakakalot-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/84e6af1acb3f3e3e8effc37095d2b1c40bfcd342",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3551e7b305d78a09f6bb23b599bf012ab527f204",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangakakalot-v1.4.22.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangakakalot-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/84e6af1acb3f3e3e8effc37095d2b1c40bfcd342",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3551e7b305d78a09f6bb23b599bf012ab527f204",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangakakalot-v1.4.22.apk"
     }
   },
@@ -6098,16 +6098,16 @@
   {
     "name": "tachiyomi-en.manganelo-v1.4.19.apk",
     "path": "apk/tachiyomi-en.manganelo-v1.4.19.apk",
-    "sha": "245604ab906fa501d58f1f775efa5b73d3232f1d",
-    "size": 62123,
+    "sha": "4c01a0d68f2c6311c175b4a25a2e41e3c1856d92",
+    "size": 62186,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.manganelo-v1.4.19.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.manganelo-v1.4.19.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/245604ab906fa501d58f1f775efa5b73d3232f1d",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4c01a0d68f2c6311c175b4a25a2e41e3c1856d92",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.manganelo-v1.4.19.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.manganelo-v1.4.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/245604ab906fa501d58f1f775efa5b73d3232f1d",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4c01a0d68f2c6311c175b4a25a2e41e3c1856d92",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.manganelo-v1.4.19.apk"
     }
   },
@@ -6722,16 +6722,16 @@
   {
     "name": "tachiyomi-en.manhwaread-v1.4.1.apk",
     "path": "apk/tachiyomi-en.manhwaread-v1.4.1.apk",
-    "sha": "02db072f281602918751d00011f42895cdd18f6c",
-    "size": 201382,
+    "sha": "dfb2f70d18c02ffa85b0cb2199f27b8c6751d0a4",
+    "size": 201510,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.manhwaread-v1.4.1.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.manhwaread-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/02db072f281602918751d00011f42895cdd18f6c",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/dfb2f70d18c02ffa85b0cb2199f27b8c6751d0a4",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.manhwaread-v1.4.1.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.manhwaread-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/02db072f281602918751d00011f42895cdd18f6c",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/dfb2f70d18c02ffa85b0cb2199f27b8c6751d0a4",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.manhwaread-v1.4.1.apk"
     }
   },
@@ -7074,16 +7074,16 @@
   {
     "name": "tachiyomi-en.newmanhwa-v1.4.34.apk",
     "path": "apk/tachiyomi-en.newmanhwa-v1.4.34.apk",
-    "sha": "d1fabe076e2813a926e65e67df41d5727e7bacc9",
-    "size": 103271,
+    "sha": "24452eadc9409a03a8651b40403bfd73eb8e2db8",
+    "size": 103421,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.newmanhwa-v1.4.34.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.newmanhwa-v1.4.34.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d1fabe076e2813a926e65e67df41d5727e7bacc9",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/24452eadc9409a03a8651b40403bfd73eb8e2db8",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.newmanhwa-v1.4.34.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.newmanhwa-v1.4.34.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d1fabe076e2813a926e65e67df41d5727e7bacc9",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/24452eadc9409a03a8651b40403bfd73eb8e2db8",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.newmanhwa-v1.4.34.apk"
     }
   },
@@ -7842,16 +7842,16 @@
   {
     "name": "tachiyomi-en.readcomiconline-v1.4.44.apk",
     "path": "apk/tachiyomi-en.readcomiconline-v1.4.44.apk",
-    "sha": "7a383a97d192c501378a0ce86ec3ae18d69f9288",
-    "size": 58920,
+    "sha": "2db783c26ecd684332555d51b8727bc300a8e4b3",
+    "size": 59029,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readcomiconline-v1.4.44.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.44.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/7a383a97d192c501378a0ce86ec3ae18d69f9288",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2db783c26ecd684332555d51b8727bc300a8e4b3",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.readcomiconline-v1.4.44.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readcomiconline-v1.4.44.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/7a383a97d192c501378a0ce86ec3ae18d69f9288",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2db783c26ecd684332555d51b8727bc300a8e4b3",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.44.apk"
     }
   },
@@ -8482,16 +8482,16 @@
   {
     "name": "tachiyomi-en.spyfakku-v1.4.16.apk",
     "path": "apk/tachiyomi-en.spyfakku-v1.4.16.apk",
-    "sha": "cc2e12386dc6f4c46b8de79d42b4a7c3a29fe1c2",
-    "size": 57319,
+    "sha": "53ffca7ac7047ef67ccbad05adced1b11bbbfae5",
+    "size": 57351,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.spyfakku-v1.4.16.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.16.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cc2e12386dc6f4c46b8de79d42b4a7c3a29fe1c2",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/53ffca7ac7047ef67ccbad05adced1b11bbbfae5",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.spyfakku-v1.4.16.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.spyfakku-v1.4.16.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cc2e12386dc6f4c46b8de79d42b4a7c3a29fe1c2",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/53ffca7ac7047ef67ccbad05adced1b11bbbfae5",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.16.apk"
     }
   },
@@ -15554,16 +15554,16 @@
   {
     "name": "tachiyomi-ko.wolfdotcom-v1.4.4.apk",
     "path": "apk/tachiyomi-ko.wolfdotcom-v1.4.4.apk",
-    "sha": "a93549185c7966bbfb201ee16f69d68677cbc9f7",
-    "size": 39996,
+    "sha": "125764571b935878602c5187e9d5c8bd2e2e8dfd",
+    "size": 39997,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ko.wolfdotcom-v1.4.4.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.4.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a93549185c7966bbfb201ee16f69d68677cbc9f7",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/125764571b935878602c5187e9d5c8bd2e2e8dfd",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.4.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ko.wolfdotcom-v1.4.4.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a93549185c7966bbfb201ee16f69d68677cbc9f7",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/125764571b935878602c5187e9d5c8bd2e2e8dfd",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.4.apk"
     }
   },
