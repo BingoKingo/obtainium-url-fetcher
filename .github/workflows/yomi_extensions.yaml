@@ -2,7 +2,7 @@ name: Yomi Extensions RSS Monitor
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -73,7 +73,7 @@ jobs:
             api_endpoint: "https://api.github.com/repos/komikku-repo/extensions/contents/apk?ref=repo"
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
@@ -84,26 +84,34 @@ jobs:
 
       - name: Check ${{ matrix.feeds.filename }}
         id: feed-processor
-        env:
-          RSS_URL: ${{ matrix.feeds.rss_url }}
-          FILENAME: ${{ matrix.feeds.filename }}
-          API_ENDPOINT: ${{ matrix.feeds.api_endpoint }}
         run: |
-          last_time=$(curl -fsSL "${{ matrix.feeds.rss_url }}" | \
-          xmllint --xpath '//*[local-name()="entry"][1]/*[local-name()="updated"]/text()' - 2>/dev/null || echo "error")
+          rss_content=$(curl -fsSL "${{ matrix.feeds.rss_url }}" 2>/dev/null || true)
 
-          last_commit_hash=$(curl -fsSL "${{ matrix.feeds.rss_url }}" | \
+          if [[ -z "$rss_content" ]]; then
+            echo "status=error" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          last_time=$(echo "$rss_content" | \
+          xmllint --xpath '//*[local-name()="entry"][1]/*[local-name()="updated"]/text()' - 2>/dev/null || true)
+
+          last_commit_hash=$(echo "$rss_content" | \
           xmllint --xpath '//*[local-name()="entry"][1]/*[local-name()="id"]/text()' - 2>/dev/null | \
-          awk -F/ '{print $NF}' || echo "error")
+          awk -F/ '{print $NF}' || true)
 
-          local_last_time=$(git log -1 --format=%cd --date=iso-strict --grep="${{ matrix.feeds.filename }}" 2>/dev/null || echo "error")
+          if [[ -z "$last_time" || -z "$last_commit_hash" ]]; then
+            echo "status=error" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          local_last_time=$(git log -1 --format=%cd --date=iso-strict --grep="${{ matrix.feeds.filename }}" 2>/dev/null || true)
           if [[ "$local_last_time" == "$last_time" ]]; then
-            echo "status=skipped" >> $GITHUB_OUTPUT
+            echo "status=skipped" >> "$GITHUB_OUTPUT"
             exit 0
           else
-            echo "status=success" >> $GITHUB_OUTPUT
-            echo "last_time=$last_time" >> $GITHUB_ENV
-            echo "last_commit_hash=$last_commit_hash" >> $GITHUB_ENV
+            echo "status=success" >> "$GITHUB_OUTPUT"
+            echo "last_time=$last_time" >> "$GITHUB_ENV"
+            echo "last_commit_hash=$last_commit_hash" >> "$GITHUB_ENV"
           fi
 
       - name: Fetch ${{ matrix.feeds.filename }}
@@ -119,11 +127,16 @@ jobs:
           GIT_AUTHOR_DATE: ${{ env.last_time }}
           GIT_COMMITTER_DATE: ${{ env.last_time }}
         run: |
-          git pull origin main --rebase --autostash
           git config user.name "Bingo Kingo"
           git config user.email "24961267+BingoKingo@users.noreply.github.com"
+          git pull origin main --rebase --autostash
           mkdir -p yomi_extensions
           mv "${{ matrix.feeds.filename }}" "yomi_extensions/${{ matrix.feeds.filename }}"
           git add "yomi_extensions/${{ matrix.feeds.filename }}"
-          git commit -m "chore(sync): Update ${{ matrix.feeds.filename }}: ${{ env.last_commit_hash }}"
-          git push origin main
+          
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(sync): Update ${{ matrix.feeds.filename }}: ${{ env.last_commit_hash }}"
+            git push origin main
+          else
+            echo "No changes to commit for ${{ matrix.feeds.filename }}"
+          fi
