@@ -530,16 +530,16 @@
   {
     "name": "tachiyomi-all.hentai3-v1.4.6.apk",
     "path": "apk/tachiyomi-all.hentai3-v1.4.6.apk",
-    "sha": "00d4649ef73cd6b45446c7bddeecc49b69ef5556",
-    "size": 47844,
+    "sha": "4e4a9260d09fa643922f938135f880f99c84af5e",
+    "size": 47416,
     "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.hentai3-v1.4.6.apk?ref=repo",
     "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.hentai3-v1.4.6.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/00d4649ef73cd6b45446c7bddeecc49b69ef5556",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/4e4a9260d09fa643922f938135f880f99c84af5e",
     "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.hentai3-v1.4.6.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.hentai3-v1.4.6.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/00d4649ef73cd6b45446c7bddeecc49b69ef5556",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/4e4a9260d09fa643922f938135f880f99c84af5e",
       "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.hentai3-v1.4.6.apk"
     }
   },
@@ -1346,16 +1346,16 @@
   {
     "name": "tachiyomi-all.misskon-v1.4.14.apk",
     "path": "apk/tachiyomi-all.misskon-v1.4.14.apk",
-    "sha": "55426f5bc0c638ab4d0afe7e2efff8d8fdefccc6",
-    "size": 60184,
+    "sha": "cc167c7cb2938cf46d5d6edfa00f4779e631dec5",
+    "size": 59799,
     "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.misskon-v1.4.14.apk?ref=repo",
     "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.misskon-v1.4.14.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/55426f5bc0c638ab4d0afe7e2efff8d8fdefccc6",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cc167c7cb2938cf46d5d6edfa00f4779e631dec5",
     "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.misskon-v1.4.14.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.misskon-v1.4.14.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/55426f5bc0c638ab4d0afe7e2efff8d8fdefccc6",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cc167c7cb2938cf46d5d6edfa00f4779e631dec5",
       "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.misskon-v1.4.14.apk"
     }
   },
@@ -1554,16 +1554,16 @@
   {
     "name": "tachiyomi-all.photos18-v1.4.7.apk",
     "path": "apk/tachiyomi-all.photos18-v1.4.7.apk",
-    "sha": "6a41266dbe3a784ddebdb6ad2a1345e348429bf8",
-    "size": 78497,
+    "sha": "9e4ffffee6788e3867f2234ac3fde36a5cbd56bc",
+    "size": 78500,
     "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.photos18-v1.4.7.apk?ref=repo",
     "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.photos18-v1.4.7.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6a41266dbe3a784ddebdb6ad2a1345e348429bf8",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9e4ffffee6788e3867f2234ac3fde36a5cbd56bc",
     "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.photos18-v1.4.7.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.photos18-v1.4.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6a41266dbe3a784ddebdb6ad2a1345e348429bf8",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/9e4ffffee6788e3867f2234ac3fde36a5cbd56bc",
       "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.photos18-v1.4.7.apk"
     }
   },
