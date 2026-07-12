@@ -3168,19 +3168,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.asurascans-v1.4.63.apk",
-    "path": "apk/tachiyomi-en.asurascans-v1.4.63.apk",
-    "sha": "8c3bf030ab33cede1aaa5410f7c391544520e407",
-    "size": 78671,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.asurascans-v1.4.63.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.asurascans-v1.4.63.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8c3bf030ab33cede1aaa5410f7c391544520e407",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.asurascans-v1.4.63.apk",
+    "name": "tachiyomi-en.asurascans-v1.4.64.apk",
+    "path": "apk/tachiyomi-en.asurascans-v1.4.64.apk",
+    "sha": "cd6c22ecd2cac5a6dbce77aaa54c0f6a6265ddbf",
+    "size": 80441,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.asurascans-v1.4.64.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.asurascans-v1.4.64.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cd6c22ecd2cac5a6dbce77aaa54c0f6a6265ddbf",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.asurascans-v1.4.64.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.asurascans-v1.4.63.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8c3bf030ab33cede1aaa5410f7c391544520e407",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.asurascans-v1.4.63.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.asurascans-v1.4.64.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cd6c22ecd2cac5a6dbce77aaa54c0f6a6265ddbf",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.asurascans-v1.4.64.apk"
     }
   },
   {
@@ -4752,19 +4752,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.hiperdex-v1.4.82.apk",
-    "path": "apk/tachiyomi-en.hiperdex-v1.4.82.apk",
-    "sha": "bbe4c2ddcb66b2b228a07370579d75cafa090838",
-    "size": 60035,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hiperdex-v1.4.82.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hiperdex-v1.4.82.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/bbe4c2ddcb66b2b228a07370579d75cafa090838",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.hiperdex-v1.4.82.apk",
+    "name": "tachiyomi-en.hiperdex-v1.4.83.apk",
+    "path": "apk/tachiyomi-en.hiperdex-v1.4.83.apk",
+    "sha": "07f1a0ef87ea79d816b2bb421feaa086fb2dc138",
+    "size": 62953,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hiperdex-v1.4.83.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hiperdex-v1.4.83.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/07f1a0ef87ea79d816b2bb421feaa086fb2dc138",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.hiperdex-v1.4.83.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hiperdex-v1.4.82.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/bbe4c2ddcb66b2b228a07370579d75cafa090838",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hiperdex-v1.4.82.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hiperdex-v1.4.83.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/07f1a0ef87ea79d816b2bb421feaa086fb2dc138",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hiperdex-v1.4.83.apk"
     }
   },
   {
