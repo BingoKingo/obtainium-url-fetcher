@@ -3184,19 +3184,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.asurascans-v1.4.63.apk",
-    "path": "apk/tachiyomi-en.asurascans-v1.4.63.apk",
-    "sha": "f72381a44b601d4cbca6bb9e2aed66e36d896d7b",
-    "size": 78648,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.asurascans-v1.4.63.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.asurascans-v1.4.63.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f72381a44b601d4cbca6bb9e2aed66e36d896d7b",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.asurascans-v1.4.63.apk",
+    "name": "tachiyomi-en.asurascans-v1.4.64.apk",
+    "path": "apk/tachiyomi-en.asurascans-v1.4.64.apk",
+    "sha": "211d8cd0fc08fabd95e14988f935f4fb78932cdd",
+    "size": 80416,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.asurascans-v1.4.64.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.asurascans-v1.4.64.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/211d8cd0fc08fabd95e14988f935f4fb78932cdd",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.asurascans-v1.4.64.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.asurascans-v1.4.63.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f72381a44b601d4cbca6bb9e2aed66e36d896d7b",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.asurascans-v1.4.63.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.asurascans-v1.4.64.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/211d8cd0fc08fabd95e14988f935f4fb78932cdd",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.asurascans-v1.4.64.apk"
     }
   },
   {
