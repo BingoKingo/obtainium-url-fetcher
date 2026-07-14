@@ -12512,19 +12512,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.kiryuu-v1.4.55.apk",
-    "path": "apk/tachiyomi-id.kiryuu-v1.4.55.apk",
-    "sha": "85caecdd3b2f8e33fbf8707da64414b33946dbd8",
-    "size": 62795,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.kiryuu-v1.4.55.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.kiryuu-v1.4.55.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/85caecdd3b2f8e33fbf8707da64414b33946dbd8",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-id.kiryuu-v1.4.55.apk",
+    "name": "tachiyomi-id.kiryuu-v1.4.56.apk",
+    "path": "apk/tachiyomi-id.kiryuu-v1.4.56.apk",
+    "sha": "c66e67b247d3123dededf400af34b292138a538b",
+    "size": 62792,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.kiryuu-v1.4.56.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.kiryuu-v1.4.56.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c66e67b247d3123dededf400af34b292138a538b",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-id.kiryuu-v1.4.56.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.kiryuu-v1.4.55.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/85caecdd3b2f8e33fbf8707da64414b33946dbd8",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.kiryuu-v1.4.55.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.kiryuu-v1.4.56.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c66e67b247d3123dededf400af34b292138a538b",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.kiryuu-v1.4.56.apk"
     }
   },
   {
@@ -13360,19 +13360,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.shinigami-v1.4.79.apk",
-    "path": "apk/tachiyomi-id.shinigami-v1.4.79.apk",
-    "sha": "d286a536bc8f2f3b2f7e76c75abbe2fe2c8e5000",
-    "size": 84091,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.shinigami-v1.4.79.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.shinigami-v1.4.79.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d286a536bc8f2f3b2f7e76c75abbe2fe2c8e5000",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-id.shinigami-v1.4.79.apk",
+    "name": "tachiyomi-id.shinigami-v1.4.80.apk",
+    "path": "apk/tachiyomi-id.shinigami-v1.4.80.apk",
+    "sha": "79d518ebe1b29b90bda74ff96a8e27f4f11c10aa",
+    "size": 84223,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.shinigami-v1.4.80.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.shinigami-v1.4.80.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/79d518ebe1b29b90bda74ff96a8e27f4f11c10aa",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-id.shinigami-v1.4.80.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.shinigami-v1.4.79.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d286a536bc8f2f3b2f7e76c75abbe2fe2c8e5000",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.shinigami-v1.4.79.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.shinigami-v1.4.80.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/79d518ebe1b29b90bda74ff96a8e27f4f11c10aa",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.shinigami-v1.4.80.apk"
     }
   },
   {
@@ -15616,19 +15616,19 @@
     }
   },
   {
-    "name": "tachiyomi-ko.navercomic-v1.4.8.apk",
-    "path": "apk/tachiyomi-ko.navercomic-v1.4.8.apk",
-    "sha": "fa0721142edd0a162063d7175eac2b4700a49f58",
-    "size": 70966,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ko.navercomic-v1.4.8.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ko.navercomic-v1.4.8.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/fa0721142edd0a162063d7175eac2b4700a49f58",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ko.navercomic-v1.4.8.apk",
+    "name": "tachiyomi-ko.navercomic-v1.4.9.apk",
+    "path": "apk/tachiyomi-ko.navercomic-v1.4.9.apk",
+    "sha": "cfa6b76ec8a2046dea33116cbc9bf264c3827eb0",
+    "size": 70990,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ko.navercomic-v1.4.9.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ko.navercomic-v1.4.9.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cfa6b76ec8a2046dea33116cbc9bf264c3827eb0",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ko.navercomic-v1.4.9.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ko.navercomic-v1.4.8.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/fa0721142edd0a162063d7175eac2b4700a49f58",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ko.navercomic-v1.4.8.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ko.navercomic-v1.4.9.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cfa6b76ec8a2046dea33116cbc9bf264c3827eb0",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ko.navercomic-v1.4.9.apk"
     }
   },
   {
