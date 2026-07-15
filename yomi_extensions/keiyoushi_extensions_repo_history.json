@@ -8000,6 +8000,22 @@
     }
   },
   {
+    "name": "tachiyomi-en.readhorimiyaonline-v1.4.1.apk",
+    "path": "apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk",
+    "sha": "eb5dbacc0ffa6551c38c18b9a639fec4279cfda0",
+    "size": 96926,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/eb5dbacc0ffa6551c38c18b9a639fec4279cfda0",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/eb5dbacc0ffa6551c38c18b9a639fec4279cfda0",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk",
     "path": "apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk",
     "sha": "dd76bffe309b089969b6b0cafbebc747b4851daa",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.cafecomyaoi-v1.4.54.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6be605a3ef455660ff696342463c977e6a25a057",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.cafecomyaoi-v1.4.54.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.cerisescans-v1.4.62.apk",
-    "path": "apk/tachiyomi-pt.cerisescans-v1.4.62.apk",
-    "sha": "df9d56c91990cdb3944993b9efac6ed432201966",
-    "size": 58333,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.cerisescans-v1.4.62.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.cerisescans-v1.4.62.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/df9d56c91990cdb3944993b9efac6ed432201966",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.cerisescans-v1.4.62.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.cerisescans-v1.4.62.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/df9d56c91990cdb3944993b9efac6ed432201966",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.cerisescans-v1.4.62.apk"
     }
   }
 ]
