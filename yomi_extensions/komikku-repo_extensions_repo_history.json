@@ -8016,6 +8016,22 @@
     }
   },
   {
+    "name": "tachiyomi-en.readhorimiyaonline-v1.4.1.apk",
+    "path": "apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk",
+    "sha": "f2e7682b1700915d1423494470d336ebac8fd624",
+    "size": 96905,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f2e7682b1700915d1423494470d336ebac8fd624",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f2e7682b1700915d1423494470d336ebac8fd624",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk",
     "path": "apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk",
     "sha": "4fd3248690ff16e32e7df3e0e3fe3568b2e974ee",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.brasilhentai-v1.4.5.apk?ref=repo",
       "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c29ae7388dd84fe4df44e542e69d396c3d36ffbc",
       "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.brasilhentai-v1.4.5.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.bryaoi-v1.4.2.apk",
-    "path": "apk/tachiyomi-pt.bryaoi-v1.4.2.apk",
-    "sha": "33df1f7c981e2e8c9e8a8b0f713ad5cf0dbeebf7",
-    "size": 34638,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.bryaoi-v1.4.2.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.bryaoi-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/33df1f7c981e2e8c9e8a8b0f713ad5cf0dbeebf7",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-pt.bryaoi-v1.4.2.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.bryaoi-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/33df1f7c981e2e8c9e8a8b0f713ad5cf0dbeebf7",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.bryaoi-v1.4.2.apk"
     }
   }
 ]
