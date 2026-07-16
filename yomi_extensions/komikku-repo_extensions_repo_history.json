@@ -2752,19 +2752,19 @@
     }
   },
   {
-    "name": "tachiyomi-ar.teamx-v1.4.33.apk",
-    "path": "apk/tachiyomi-ar.teamx-v1.4.33.apk",
-    "sha": "322d916744f9c0cd16e9dd968b66620fad288dc2",
-    "size": 40394,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.teamx-v1.4.33.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.teamx-v1.4.33.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/322d916744f9c0cd16e9dd968b66620fad288dc2",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ar.teamx-v1.4.33.apk",
+    "name": "tachiyomi-ar.teamx-v1.6.33.apk",
+    "path": "apk/tachiyomi-ar.teamx-v1.6.33.apk",
+    "sha": "6a8e49c2300295a51febf3850ef4acc86664172f",
+    "size": 52094,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.teamx-v1.6.33.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.teamx-v1.6.33.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6a8e49c2300295a51febf3850ef4acc86664172f",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ar.teamx-v1.6.33.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.teamx-v1.4.33.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/322d916744f9c0cd16e9dd968b66620fad288dc2",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.teamx-v1.4.33.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ar.teamx-v1.6.33.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6a8e49c2300295a51febf3850ef4acc86664172f",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ar.teamx-v1.6.33.apk"
     }
   },
   {
