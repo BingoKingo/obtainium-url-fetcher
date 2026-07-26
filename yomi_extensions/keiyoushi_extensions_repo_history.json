@@ -14544,19 +14544,19 @@
     }
   },
   {
-    "name": "tachiyomi-ja.jmanga-v1.4.4.apk",
-    "path": "apk/tachiyomi-ja.jmanga-v1.4.4.apk",
-    "sha": "a96834691921550c17bec72ac1c3723faa702d09",
-    "size": 43351,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.jmanga-v1.4.4.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.jmanga-v1.4.4.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a96834691921550c17bec72ac1c3723faa702d09",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ja.jmanga-v1.4.4.apk",
+    "name": "tachiyomi-ja.jmanga-v1.4.5.apk",
+    "path": "apk/tachiyomi-ja.jmanga-v1.4.5.apk",
+    "sha": "8db679fafa09a92bf7b76dfe7d7429b7b2d0ead9",
+    "size": 43347,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.jmanga-v1.4.5.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.jmanga-v1.4.5.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8db679fafa09a92bf7b76dfe7d7429b7b2d0ead9",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ja.jmanga-v1.4.5.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.jmanga-v1.4.4.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a96834691921550c17bec72ac1c3723faa702d09",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.jmanga-v1.4.4.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.jmanga-v1.4.5.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8db679fafa09a92bf7b76dfe7d7429b7b2d0ead9",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.jmanga-v1.4.5.apk"
     }
   },
   {
