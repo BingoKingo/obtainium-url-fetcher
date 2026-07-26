@@ -4656,19 +4656,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.hentainexus-v1.6.19.apk",
-    "path": "apk/tachiyomi-en.hentainexus-v1.6.19.apk",
-    "sha": "3090bfe8a23fc13172181c806e38d4fc8b13d505",
+    "name": "tachiyomi-en.hentainexus-v1.6.20.apk",
+    "path": "apk/tachiyomi-en.hentainexus-v1.6.20.apk",
+    "sha": "6c9ae5c577e08abde8af636ab5a7dfa1587a9bfc",
     "size": 45339,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hentainexus-v1.6.19.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hentainexus-v1.6.19.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3090bfe8a23fc13172181c806e38d4fc8b13d505",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.hentainexus-v1.6.19.apk",
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hentainexus-v1.6.20.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hentainexus-v1.6.20.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6c9ae5c577e08abde8af636ab5a7dfa1587a9bfc",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.hentainexus-v1.6.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hentainexus-v1.6.19.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3090bfe8a23fc13172181c806e38d4fc8b13d505",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hentainexus-v1.6.19.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hentainexus-v1.6.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6c9ae5c577e08abde8af636ab5a7dfa1587a9bfc",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hentainexus-v1.6.20.apk"
     }
   },
   {
