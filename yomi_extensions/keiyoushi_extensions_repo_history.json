@@ -1072,19 +1072,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.mangafire-v1.4.26.apk",
-    "path": "apk/tachiyomi-all.mangafire-v1.4.26.apk",
-    "sha": "da7dfdc507259cd2f51bf56bcd94074a907af5af",
-    "size": 56391,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangafire-v1.4.26.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangafire-v1.4.26.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/da7dfdc507259cd2f51bf56bcd94074a907af5af",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.mangafire-v1.4.26.apk",
+    "name": "tachiyomi-all.mangafire-v1.6.27.apk",
+    "path": "apk/tachiyomi-all.mangafire-v1.6.27.apk",
+    "sha": "b6078da92166814113712a28d8ee17521668bfd1",
+    "size": 68967,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangafire-v1.6.27.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangafire-v1.6.27.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b6078da92166814113712a28d8ee17521668bfd1",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.mangafire-v1.6.27.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangafire-v1.4.26.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/da7dfdc507259cd2f51bf56bcd94074a907af5af",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangafire-v1.4.26.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangafire-v1.6.27.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b6078da92166814113712a28d8ee17521668bfd1",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangafire-v1.6.27.apk"
     }
   },
   {
@@ -4656,19 +4656,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.hentainexus-v1.4.18.apk",
-    "path": "apk/tachiyomi-en.hentainexus-v1.4.18.apk",
-    "sha": "84b8d5ff4dab406bd25ee49362dfa0cec0cd9b93",
-    "size": 39063,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hentainexus-v1.4.18.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hentainexus-v1.4.18.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/84b8d5ff4dab406bd25ee49362dfa0cec0cd9b93",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.hentainexus-v1.4.18.apk",
+    "name": "tachiyomi-en.hentainexus-v1.6.19.apk",
+    "path": "apk/tachiyomi-en.hentainexus-v1.6.19.apk",
+    "sha": "3090bfe8a23fc13172181c806e38d4fc8b13d505",
+    "size": 45339,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hentainexus-v1.6.19.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hentainexus-v1.6.19.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3090bfe8a23fc13172181c806e38d4fc8b13d505",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.hentainexus-v1.6.19.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hentainexus-v1.4.18.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/84b8d5ff4dab406bd25ee49362dfa0cec0cd9b93",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hentainexus-v1.4.18.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hentainexus-v1.6.19.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3090bfe8a23fc13172181c806e38d4fc8b13d505",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hentainexus-v1.6.19.apk"
     }
   },
   {
