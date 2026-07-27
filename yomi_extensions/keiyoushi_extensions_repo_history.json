@@ -5696,19 +5696,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangabuddy-v1.6.32.apk",
-    "path": "apk/tachiyomi-en.mangabuddy-v1.6.32.apk",
-    "sha": "688915e35efaa7ec8faeb67be384420b680aeb0a",
-    "size": 75175,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangabuddy-v1.6.32.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangabuddy-v1.6.32.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/688915e35efaa7ec8faeb67be384420b680aeb0a",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangabuddy-v1.6.32.apk",
+    "name": "tachiyomi-en.mangabuddy-v1.6.33.apk",
+    "path": "apk/tachiyomi-en.mangabuddy-v1.6.33.apk",
+    "sha": "cb57c2775df2beaf94e77ee0186420f5f8ff6443",
+    "size": 75063,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangabuddy-v1.6.33.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangabuddy-v1.6.33.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cb57c2775df2beaf94e77ee0186420f5f8ff6443",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangabuddy-v1.6.33.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangabuddy-v1.6.32.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/688915e35efaa7ec8faeb67be384420b680aeb0a",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangabuddy-v1.6.32.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangabuddy-v1.6.33.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cb57c2775df2beaf94e77ee0186420f5f8ff6443",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangabuddy-v1.6.33.apk"
     }
   },
   {
@@ -8976,19 +8976,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.toonilyme-v1.6.2.apk",
-    "path": "apk/tachiyomi-en.toonilyme-v1.6.2.apk",
-    "sha": "a845e36b7c8590a55b331a4c8c5ace876f067edc",
-    "size": 49951,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.toonilyme-v1.6.2.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.toonilyme-v1.6.2.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a845e36b7c8590a55b331a4c8c5ace876f067edc",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.toonilyme-v1.6.2.apk",
+    "name": "tachiyomi-en.toonilyme-v1.6.3.apk",
+    "path": "apk/tachiyomi-en.toonilyme-v1.6.3.apk",
+    "sha": "32354227944aec47d61d90010a98a243b544e6e8",
+    "size": 49819,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.toonilyme-v1.6.3.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.toonilyme-v1.6.3.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/32354227944aec47d61d90010a98a243b544e6e8",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.toonilyme-v1.6.3.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.toonilyme-v1.6.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a845e36b7c8590a55b331a4c8c5ace876f067edc",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.toonilyme-v1.6.2.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.toonilyme-v1.6.3.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/32354227944aec47d61d90010a98a243b544e6e8",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.toonilyme-v1.6.3.apk"
     }
   },
   {
@@ -10256,19 +10256,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.inmortalscan-v1.4.55.apk",
-    "path": "apk/tachiyomi-es.inmortalscan-v1.4.55.apk",
-    "sha": "d0a90143b3c73fbd28fa0da94d1c851b5d1d4d28",
-    "size": 53486,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.inmortalscan-v1.4.55.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.inmortalscan-v1.4.55.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d0a90143b3c73fbd28fa0da94d1c851b5d1d4d28",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.inmortalscan-v1.4.55.apk",
+    "name": "tachiyomi-es.inmortalscan-v1.4.56.apk",
+    "path": "apk/tachiyomi-es.inmortalscan-v1.4.56.apk",
+    "sha": "bf9fea7372e68876bc8c38e6876f22be74f73bc7",
+    "size": 50706,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.inmortalscan-v1.4.56.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.inmortalscan-v1.4.56.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/bf9fea7372e68876bc8c38e6876f22be74f73bc7",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.inmortalscan-v1.4.56.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.inmortalscan-v1.4.55.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d0a90143b3c73fbd28fa0da94d1c851b5d1d4d28",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.inmortalscan-v1.4.55.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.inmortalscan-v1.4.56.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/bf9fea7372e68876bc8c38e6876f22be74f73bc7",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.inmortalscan-v1.4.56.apk"
     }
   },
   {
