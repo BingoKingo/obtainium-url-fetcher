@@ -128,19 +128,19 @@
     }
   },
   {
-    "name": "tachiyomi-vi.cuutruyen-v1.4.15.apk",
-    "path": "apk/tachiyomi-vi.cuutruyen-v1.4.15.apk",
-    "sha": "8cd01562f44497b1ae9a672cd84cdbfd04082a00",
-    "size": 77805,
-    "url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-vi.cuutruyen-v1.4.15.apk?ref=repo",
-    "html_url": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-vi.cuutruyen-v1.4.15.apk",
-    "git_url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/8cd01562f44497b1ae9a672cd84cdbfd04082a00",
-    "download_url": "https://raw.githubusercontent.com/beer-psi/tachiyomi-unofficial-extensions/repo/apk/tachiyomi-vi.cuutruyen-v1.4.15.apk",
+    "name": "tachiyomi-vi.cuutruyen-v1.4.17.apk",
+    "path": "apk/tachiyomi-vi.cuutruyen-v1.4.17.apk",
+    "sha": "78c38f160be2fa9cf0c9d13ad1e287117c3252a2",
+    "size": 77936,
+    "url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-vi.cuutruyen-v1.4.17.apk?ref=repo",
+    "html_url": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-vi.cuutruyen-v1.4.17.apk",
+    "git_url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/78c38f160be2fa9cf0c9d13ad1e287117c3252a2",
+    "download_url": "https://raw.githubusercontent.com/beer-psi/tachiyomi-unofficial-extensions/repo/apk/tachiyomi-vi.cuutruyen-v1.4.17.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-vi.cuutruyen-v1.4.15.apk?ref=repo",
-      "git": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/8cd01562f44497b1ae9a672cd84cdbfd04082a00",
-      "html": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-vi.cuutruyen-v1.4.15.apk"
+      "self": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-vi.cuutruyen-v1.4.17.apk?ref=repo",
+      "git": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/78c38f160be2fa9cf0c9d13ad1e287117c3252a2",
+      "html": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-vi.cuutruyen-v1.4.17.apk"
     }
   }
 ]
